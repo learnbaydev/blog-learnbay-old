@@ -1,0 +1,57 @@
+{
+  "name": "bloglearnbay",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "next test",
+    "lint": "next lint",
+    "prepare": "husky install",
+    "cache-posts": "node scripts/cache.js"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn cache-posts && git add cache/data.js"
+    }
+  },
+  "dependencies": {
+    "@typescript-eslint/parser": "^5.49.0",
+    "date-fns": "^3.6.0",
+    "eslint-config-prettier": "^8.6.0",
+    "feed": "^4.2.2",
+    "googleapis": "^107.0.0",
+    "gray-matter": "^4.0.3",
+    "js-cookie": "^3.0.1",
+    "marked": "^4.0.17",
+    "next": "^14.1.4",
+    "next-seo": "^6.1.0",
+    "next-share": "^0.18.1",
+    "react": "18.2.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "react-phone-number-input": "^3.2.4",
+    "sass": "^1.53.0",
+    "sharp": "^0.32.5",
+    "sitemap": "^7.1.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.49.0",
+    "eslint": "^8.40.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-next": "^12.2.2",
+    "eslint-config-standard-with-typescript": "^32.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "husky": "^8.0.2",
+    "typescript": "^4.9.4",
+    "webpack-bundle-analyzer": "^4.8.0"
+  }
+}
