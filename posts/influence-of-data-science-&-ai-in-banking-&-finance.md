@@ -8,7 +8,7 @@ desc: "The growing impact of data science and AI in banking and finance. Stay ah
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fin-tech-banner-min.png"
 headerAlt: "A banner image titled,  'The Rising Influence of Data Science and AI in Banking & Finance' shows a bank and coin logo"
-date: "Nov 07, 2024"
+date: "Nov 10, 2024"
 tag:
   [
     Data Science in Banking,
@@ -26,7 +26,7 @@ authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonal
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
-readTime: " 8.5 mins"
+readTime: " 8.2 mins"
 video: ""
 vname: " "
 vdesc: ""
