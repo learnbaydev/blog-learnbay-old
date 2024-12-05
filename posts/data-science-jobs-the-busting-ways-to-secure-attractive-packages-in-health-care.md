@@ -18,8 +18,9 @@ category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
 catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
-authortitle: ""
-adesc: ""
+authortitle: "Krishna Kumar: Founder and CEO of Learnbay"
+adesc: "Krishna Kumar, the Founder and CEO of Learnbay. Brings over 10+ years of experience in software engineering, data science and AI."
+
 
 position: "Editor"
 readTime: "10-12 mins"

@@ -47,7 +47,7 @@ Do you hold a finance or banking background? These 5 data science courses for ba
 
 In the last two years (2020 end to 2022 mid), folks of people have switched their jobs. The most hiked figures you could find from the fintech companies like HSBC, JP Morgan, etc. But by chance, if you think that such a hiring source was exclusive to IT pros- then you are damn wrong. The positions like 'financial analyst,' 'credit risk analyst,' AI experts, ML engineer, and data scientist were actually the top positions. 
 
-Yes, the above roles have already overtaken traditional IT roles from the perspective of salary, job security, and future growth. But pursuing a random data science course to target these roles will be the biggest mistake of your life. Although it is the least exposed, there lies a bunch of financial analytics courses or exclusive <b><a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course" target="_blank"> data science certifications</a></b> for banking professionals. 
+Yes, the above roles have already overtaken traditional IT roles from the perspective of salary, job security, and future growth. But pursuing a random data science course to target these roles will be the biggest mistake of your life. Although it is the least exposed, there lies a bunch of financial analytics courses or exclusive <b><a href="https://www.learnbay.co/datascience/data-science-and-ai-masters-in-cs" target="_blank"> data science certifications</a></b> for banking professionals. 
 
 
 

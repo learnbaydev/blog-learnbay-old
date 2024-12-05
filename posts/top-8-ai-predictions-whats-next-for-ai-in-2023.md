@@ -19,8 +19,8 @@ category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
 catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
-authortitle: ""
-adesc: ""
+authortitle: "Abhishek Gupta: Co-founder and CBO of Learnbay "
+adesc: "Abhishek Gupta, the Co-founder and CBO of Learnbay, Brings Over 7+ Years of Expertise in Business Development."
 
 author: "Abhishek Gupta"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/abhishek-gupta.webp"

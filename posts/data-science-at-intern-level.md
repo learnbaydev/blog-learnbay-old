@@ -10,7 +10,11 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tbds-
 headerAlt: "A banner image titled 'Data Science at Intern Level' shows a data science enthusiast standing with a laptop in her hand. A glowing spiral gyre surrounds her."
 date: "Jan 07, 2022"
 tag: [ how to get a data science internship, data science internship 2023, best companies for data science internship in india ]
+authortitle: "Krishna Kumar: Founder and CEO of Learnbay"
+adesc: "Krishna Kumar, the Founder and CEO of Learnbay. Brings over 10+ years of experience in software engineering, data science and AI."
+
 author: "Krishna Kumar"
+
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/krishna-kumar.webp"
 authordesc: "Krishna Kumar is the founder and CEO of Learnbay.  With 10+ years of experience in software engineering development followed by data science and AI expertise, he has managed to transform the careers of many tech professionals in data science and the full-stack field through his ed-tech platform."
 authorlinkedin: "https://www.linkedin.com/in/krishna-kumar-learnbay/"
@@ -18,9 +22,6 @@ category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
 catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
-authortitle: ""
-adesc: ""
-
 position: "Editor"
 readTime: "15-17 mins"
 video: ""
