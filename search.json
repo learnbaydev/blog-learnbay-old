@@ -3139,7 +3139,7 @@
       "slug": "quick-tips-for-balancing-a-hectic-work-schedule-with-data-science-studies",
       "description": "Discover essential tips to balance work and data science studies. Optimise your schedule for success with practical insights & efficient strategies.",
       "categories": "Data Science",
-      "author": "Sonalisha Mohanty",
+      "author": "Sayantika Mandal",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/quccik-banner.png",
       "readTime": " 5.5 mins",
       "date": "Feb 27, 2024",
@@ -3341,7 +3341,7 @@
       "slug": "iot-careers-ultimate-guide-for-2025",
       "description": "Explore the landscape of IoT careers in 2025 with our comprehensive guide. Unlock thriving opportunities and chart your path to success in the dynamic world of Internet of Things.",
       "categories": "Artificial Intelligence",
-      "author": "Nivin Biswas",
+      "author": "Sayantika Mandal",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nov_11.png",
       "readTime": " 4.5 mins",
       "date": "Sep 24, 2024",
@@ -3360,6 +3360,21 @@
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fin-tech-banner-min.png",
       "readTime": " 8.2 mins",
       "date": "Nov 10, 2024",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "automated-deep-learning-for-chest-radiograph-screening",
+    "frontmatter": {
+      "title": "Role of Automated Deep Learning Algorithm For Reliable Screening of Chest Radiographs",
+      "slug": "automated-deep-learning-for-chest-radiograph-screening",
+      "description": " Learn how automated deep learning algorithms enhance chest radiograph screening reliability, revolutionising medical imaging interpretation. Read our blog..",
+      "categories": "Machine Learning",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/04.png",
+      "readTime": " 4.6 mins",
+      "date": "Nov 18, 2024",
       "draft": false
     }
   }
