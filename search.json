@@ -3362,5 +3362,20 @@
       "date": "Nov 10, 2024",
       "draft": false
     }
+  },
+
+  {
+    "slug": "automated-deep-learning-for-chest-radiograph-screening",
+    "frontmatter": {
+      "title": "Role of Automated Deep Learning Algorithm For Reliable Screening of Chest Radiographs",
+      "slug": "automated-deep-learning-for-chest-radiograph-screening",
+      "description": " Learn how automated deep learning algorithms enhance chest radiograph screening reliability, revolutionising medical imaging interpretation. Read our blog..",
+      "categories": "Machine Learning",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/04.png",
+      "readTime": " 4.6 mins",
+      "date": "Nov 18, 2024",
+      "draft": false
+    }
   }
 ]
