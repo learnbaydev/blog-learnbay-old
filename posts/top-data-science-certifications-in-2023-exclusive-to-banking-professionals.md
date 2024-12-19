@@ -184,7 +184,7 @@ Calculate the Sharpe Ratio
 Optimize Portfolio Allocations
 Understand the Capital Asset Pricing Model
 Learn about the Efficient Market Hypothesis
-Conduct algorithmic Trading on Quantopian
+Conduct algorithmic Trading on Quintilian
 Q&A forum
 NumPy tool to work with Numerical Data
 Use Pandas to Analyze and Visualize Data
