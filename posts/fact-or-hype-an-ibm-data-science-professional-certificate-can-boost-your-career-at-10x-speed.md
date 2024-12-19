@@ -48,7 +48,7 @@ The career satisfaction rate of data scientists:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-2.jpg" style="width:100%" class="img" alt="An image of how IBM's Data Science and AI certification might advance a career satisfaction."/>
 
-We all know industries are implementing <a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">data science and AI</a> innovation to earn maximum profitable outcomes. Even non-technical business operation segments rely more on certified data analysts than experienced non-analytical specialists. Marketing, sales, human resource, etc., fall into such segmentations. As a result, at least basic **data analytics** skills are going to be the must-have criteria for all domains.
+We all know industries are implementing <a href="https://www.learnbay.co/datascience/artificial-intelligence-certification-course" target="_blank">data science and AI</a> innovation to earn maximum profitable outcomes. Even non-technical business operation segments rely more on certified data analysts than experienced non-analytical specialists. Marketing, sales, human resource, etc., fall into such segmentations. As a result, at least basic **data analytics** skills are going to be the must-have criteria for all domains.
 
 But, <a href="https://blog.learnbay.co/different-jobs-opportunities-of-data-science" target="_blank">data science jobs</a> are in much demand. At the same time Simultaneously, countless certified data scientists are falling out of their jobs. Then why do incidents of unemployment still exist in the life of data scientists?
 
@@ -121,7 +121,7 @@ With 8+ elective domain options (both tech and non-tech), you get specialized re
 
 But the ultimate magic key is the project experience certification by IBM. As your practical abilities get authenticated by IBM hence, your resume easily gets to the notice of top companies.
 
-It's not the end. The specialization feature even goes beyond the certificates. Based on your present career stage and educational background, you get custom-fit courses as well as learning modules. Even an aspirant with 7+ years of a professional career can easily switch to the data science field with the help of such certification programs as you have the option of specialized <a href="https://www.learnbay.co/data-science-ai-for-managers" target="_blank">data science and AI certification courses for Managers and Leaders</a>.
+It's not the end. The specialization feature even goes beyond the certificates. Based on your present career stage and educational background, you get custom-fit courses as well as learning modules. Even an aspirant with 7+ years of a professional career can easily switch to the data science field with the help of such certification programs as you have the option of specialized <a href="https://www.learnbay.co/datascience/data-science-ai-for-managers" target="_blank">data science and AI certification courses for Managers and Leaders</a>.
 
 ## Then what do the professional certifications in data science offer?  
 
