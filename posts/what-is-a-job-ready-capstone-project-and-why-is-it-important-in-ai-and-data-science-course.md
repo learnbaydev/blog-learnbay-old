@@ -56,7 +56,7 @@ tableData:
 
 Capstone Project Is What You Need To Stand Out From Other Applicants During Recruitment
 
-Data science is zestful and a never-ending profession. That is why many institutes and edtech offer AI and <a href="https://www.learnbay.co/data-science-course/advance-data-science-certification-courses/" target="_blank">Data science courses.</a>
+Data science is zestful and a never-ending profession. That is why many institutes and edtech offer AI and <a href="https://www.learnbay.co/data-science-courses" target="_blank">Data science courses.</a>
 
 The growth in online education occurred during the COVID pandemic. Everyone opts for online classes and lessons, even from schools to universities. So students lose their academic careers.
 
@@ -64,9 +64,9 @@ About 80% of working professionals seek a **job-ready data science and AI course
 
 And this is where the **capstone project** plays a vital role for data science and AI aspirants.
 
-A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology. And even showcase their skills to the recruiter while applying for a <a href="https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/" target="_blank">job in data science.</a>
+A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology. And even showcase their skills to the recruiter while applying for a <a href="https://blog.learnbay.co/different-jobs-opportunities-of-data-science" target="_blank">job in data science.</a>
 
-Recruiters usually offer an in-depth eye on your **capstone project** to know how valuable and usable **data science** **skills** and knowledge you own. So, enrolling in an AI and Data Science course that offers capstone projects is ideal and the first entry point toward a successful **data science** **career.** As I told you earlier, it is a way to show your knowledge and skills in Data Science and <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">Artificial Intelligence</a>. Many courses offer projects but not a capstone project or capstone project certification.
+Recruiters usually offer an in-depth eye on your **capstone project** to know how valuable and usable **data science** **skills** and knowledge you own. So, enrolling in an AI and Data Science course that offers capstone projects is ideal and the first entry point toward a successful **data science** **career.** As I told you earlier, it is a way to show your knowledge and skills in Data Science and <a href="https://www.learnbay.co/datascience/artificial-intelligence-certification-course" target="_blank">Artificial Intelligence</a>. Many courses offer projects but not a capstone project or capstone project certification.
 
 ## **What does the term "capstone project" refer to?**
 
@@ -114,7 +114,7 @@ When you work on a real-world project, you will learn all the areas that need to
 
 ### 2. Best For Entry-level professionals
 
-Many times when you work in a junior position in a marketing or analytics department but are capable of working on challenging projects. Today most organizations hire working professionals with high qualifications and more experience. This is how capstone project certification comes to the rescue. After you complete a capstone project, you are equipped with problem-solving abilities. So, you can convince your recruiter or the manager that you can handle challenging projects from the beginning of your <a href="https://www.learnbay.co/data-science-course/how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist/" target="_blank">data science career.</a>
+Many times when you work in a junior position in a marketing or analytics department but are capable of working on challenging projects. Today most organizations hire working professionals with high qualifications and more experience. This is how capstone project certification comes to the rescue. After you complete a capstone project, you are equipped with problem-solving abilities. So, you can convince your recruiter or the manager that you can handle challenging projects from the beginning of your <a href="https://blog.learnbay.co/how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist" target="_blank">data science career.</a>
 
 ### 3. Improves your research skills
 
@@ -128,13 +128,13 @@ Today many are opting for professional courses to improve the strength of their 
 
 ### 5. Helps in attending interviews and case study
 
-Interviews are way different today. Recruitment is not just dependent on the usual HR questions and answers <a href="https://www.learnbay.co/datascience/data-science-and-ai-masters-in-cs" target="_blank">Data Science and Artificial intelligence job.</a>
+Interviews are way different today. Recruitment is not just dependent on the usual HR questions and answers <a href="https://www.learnbay.co/datascience/advance-data-science-certification-courses" target="_blank">Data Science and Artificial intelligence job.</a>
 
 Data science roles even have technical rounds involving case studies, which can be practical or verbal. You can easily take the lead in demonstrating your analytical skills during the interview and even build confidence in resolving issues. A capstone project will prepare you for this even before you would know this.
 
 ### 6. Develop discipline and team spirit
 
-From every other skill related to the <a href="https://www.learnbay.co/data-science-course/different-job-roles-after-a-data-science-course/" target="_blank">different job roles</a>, the capstone project helps develop discipline and team spirit. When everyone knows their responsibility and shares the work for task completion, these qualities will also let you stand out from the crowd in the professional world. The capstone project unfolds in stages so students can concentrate at every step and divide responsibilities among themselves.
+From every other skill related to the <a href="https://blog.learnbay.co/different-job-roles-after-a-data-science-course" target="_blank">different job roles</a>, the capstone project helps develop discipline and team spirit. When everyone knows their responsibility and shares the work for task completion, these qualities will also let you stand out from the crowd in the professional world. The capstone project unfolds in stages so students can concentrate at every step and divide responsibilities among themselves.
 
 ### 7. Learn about the market trend
 
