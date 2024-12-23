@@ -6,7 +6,7 @@ published_time: "2017-05-08T13:25:31+05:30"
 modified_time:  "2017-05-08T13:25:31+05:30"
 desc: "The best of actors practice their dialogues in front of the mirror; they do several rehearsals before they start shooting for a film. The best of cricketers spend hours in the net, practicing..."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/datastructure.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-structures-1.png"
 headerAlt: ""
 date: "May 8, 2017"
 tag: [ Data Science ]

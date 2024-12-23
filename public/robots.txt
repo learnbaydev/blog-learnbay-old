@@ -1,4 +1,19 @@
-Sitemap: https://blog.learnbay.co/sitemap.xml
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: GermCrawler
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
 User-agent: *
+Disallow: /*?utm_*
+Disallow: /*?fbclid*
+Disallow: /*?gclid*
 Disallow: /_next/static/
 Disallow: /search
+
+Allow: /
+
+Sitemap: https://blog.learnbay.co/sitemap.xml
