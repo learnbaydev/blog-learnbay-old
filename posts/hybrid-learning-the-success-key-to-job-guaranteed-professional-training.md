@@ -151,4 +151,4 @@ Even the experts who teach in hybrid classes can alter the topic and subject acc
 
 ### In a Nutshell
 
-AI, Machine Learning, and <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">data science courses</a> are available for fast and convenient learning. But the drawback is that they offer only online training, and even the projects are not certified. Enroll in courses where your skills and course are recognized with global certificates and even provide expertise in hybrid classes for capstone projects.
+AI, Machine Learning, and <a href="https://www.learnbay.co/data-science-courses" target="_blank">data science courses</a> are available for fast and convenient learning. But the drawback is that they offer only online training, and even the projects are not certified. Enroll in courses where your skills and course are recognized with global certificates and even provide expertise in hybrid classes for capstone projects.
