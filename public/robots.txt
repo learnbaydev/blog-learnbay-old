@@ -12,7 +12,9 @@ Disallow: /*?utm_*
 Disallow: /*?fbclid*
 Disallow: /*?gclid*
 Disallow: /_next/static/
-Disallow: /search
+Disallow: /Search
+Disallow: /*?trk*
+Disallow: /*?ref*
 
 Allow: /
 
