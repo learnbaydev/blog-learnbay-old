@@ -29,7 +29,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Top Full Stack Interview Questions and Answers in 2023"
+h1: "Top Full Stack Interview Questions and Answers in 2025"
 id: "full-stack-developer-interview-questions"
 tableData:
   [

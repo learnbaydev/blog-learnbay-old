@@ -28,7 +28,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Trending IT Career in India For 2023"
+h1: "Trending IT Career in India For 2025"
 id: "it-careers-in-india"
 tableData:
   [
@@ -165,7 +165,7 @@ Career options:
 
 <b>Average salary:</b> Rs.9 lakhs per annum </br></br>
 
-**_Check Out This Blog: <a href="https://blog.learnbay.co/top-30-highest-paying-jobs-to-target-in-2023" target="_blank">Top 30 Highest Paying Jobs to Target in 2023</a>_** </br></br>
+**_Check Out This Blog: <a href="https://blog.learnbay.co/top-30-highest-paying-jobs-to-target-in-2023" target="_blank">Top 30 Highest Paying Jobs to Target in 2025</a>_** </br></br>
 
 ## 5. Cloud computing
 

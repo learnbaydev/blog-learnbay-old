@@ -7,7 +7,7 @@ modified_time: "2023-02-27T13:25:31+05:30"
 desc: "In this blog, you will learn about various advantages and use cases of time series forecasting to build strategies and limit the consequences."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsm-1.png"
-headerAlt: 'A banner image titled "Time Series Forecasting Methods | Trends for 2023" shows a green and a yellow line graph for time series forecasting.'
+headerAlt: 'A banner image titled "Time Series Forecasting Methods | Trends for 2025" shows a green and a yellow line graph for time series forecasting.'
 date: "Feb 27, 2023"
 tag:
   [
@@ -34,7 +34,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Time Series Forecasting Methods | Trends of 2023"
+h1: "Time Series Forecasting Methods | Trends of 2025"
 id: "time-series-forecasting-methods-trends-of-2023"
 tableData:
   [

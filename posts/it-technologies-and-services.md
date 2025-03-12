@@ -28,7 +28,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Emerging IT Technologies and Services in 2023"
+h1: "Emerging IT Technologies and Services in 2025"
 id: "it-technologies-and-services"
 tableData:
   [
@@ -57,7 +57,7 @@ With such technology, an IT professional needs to stay updated with the latest a
 
 These technologies and services have become more popular with applications such as ChatGPT. Professionals need to upskill themselves in these areas. Working knowledge of these IT services will help you stay competitive in the market and progress in your career.
 
-Below are the best upcoming IT technologies to prepare for and try out in 2023.
+Below are the best upcoming IT technologies to prepare for and try out in 2025.
 </br></br>
 
 ## 1. AI and ML-based technologies
@@ -154,7 +154,7 @@ Leading companies such as AWS, Microsoft, Splunk, Google, and Honeywell are now 
 
 Experience in linear algebra, quantum physics, machine learning, probability, and information theory is necessary for candidates. </br></br>
 
-_**Check Out This Blog: <a href="https://blog.learnbay.co/it-certifications" target="_blank">Top IT Certifications in Demand For 2023</a>**_ </br></br>
+_**Check Out This Blog: <a href="https://blog.learnbay.co/it-certifications" target="_blank">Top IT Certifications in Demand For 2025</a>**_ </br></br>
 
 ## 7. Cloud Computing and DevOps
 
@@ -211,7 +211,7 @@ An IT technology such as Genomics offers various technical and non-technical pos
 
 The next amazing IT technology is Augmented Reality (AR) and Virtual Reality (VR). VR engages the user in a virtual environment, and AR is used to modify that environment. Its main use is for gaming, but navy officials have also utilised the technology to train their army.
 
-We may see a big advancement in AR and VR technologies in 2023. By integrating these with other IT technologies, we can expect to see their application in improving education, entertainment, training, medical, and marketing domains. These can bring a wealth of exciting possibilities in the future. </br></br>
+We may see a big advancement in AR and VR technologies in 2025. By integrating these with other IT technologies, we can expect to see their application in improving education, entertainment, training, medical, and marketing domains. These can bring a wealth of exciting possibilities in the future. </br></br>
 
 ## 12. 5G Technology
 
