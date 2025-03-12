@@ -28,12 +28,9 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "12 Best Data Science Courses for Working Professionals in 2023"
+h1: "12 Best Data Science Courses for Working Professionals in 2025"
 id: "learnbay-top-12-data-science-courses-for-professionals-in-2023"
-tableData: [
-     List of 12 best data science courses,
-     Conclusion,
-]
+tableData: [List of 12 best data science courses, Conclusion]
 ---
 
 <span style=" font-weight:bold; font-size:28px">Top Online Data Science Courses That Working Professionals Must Enroll In!</span><br/>
@@ -184,7 +181,7 @@ They teach ML concepts such as deep learning, linear models, and reinforcement l
 
 **Course fees:** Rs.1 Lakh.<br/><br/>
 
-## Conclusion: 
+## Conclusion:
 
 The courses mentioned above can help to work professionals become expert data scientists. You need to make sure the program you pick offers accreditation and job placement assistance. But, choosing the suitable one among the vast options available can be difficult.<br/>
 
