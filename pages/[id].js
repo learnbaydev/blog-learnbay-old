@@ -24,14 +24,16 @@ export default function Post({ postData, posts, updatesd }) {
 
   const toggleContent = () => {
     setIsContentVisible(!isContentVisible);
-  };
+  }; // Format a date object as "Nov 18, 2024"
   const formatDate = (dateObj) => {
-    const day = String(dateObj.getDate()).padStart(2, "0");
-    const month = String(dateObj.getMonth() + 1).padStart(2, "0");
-    const year = dateObj.getFullYear();
-    return `${day}/${month}/${year}`;
+    return dateObj.toLocaleDateString("en-US", {
+      month: "short",
+      day: "numeric",
+      year: "numeric",
+    });
   };
 
+  // Generate a new random date by subtracting 0-9 days from today
   const generateRandomDate = () => {
     const currentDate = new Date();
     const randomDays = Math.floor(Math.random() * 10);
@@ -53,6 +55,8 @@ export default function Post({ postData, posts, updatesd }) {
       // Otherwise, use localStorage to get or generate a fallback date.
       const storageKey = `data_${postData.id}`;
       const storedData = localStorage.getItem(storageKey);
+      console.log("storedData:", storedData);
+      console.log("");
 
       if (storedData && isWithin20Days(storedData)) {
         // Use the stored date if it's valid
@@ -140,7 +144,6 @@ export default function Post({ postData, posts, updatesd }) {
                 }
                },
              "datePublished": "${postData.date}",
-              "updatedOn":"${postData.updatedOn}"
               }
             } `,
             }}
