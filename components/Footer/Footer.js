@@ -124,7 +124,7 @@ const Footer = ({ adPage, adPageCity }) => {
         <div className={styles.FooterDivInner}>
           <p className={styles.FooterInnerP}>Get Our Apps On</p>
           <a
-            href="https://play.google.com/store/apps/details?id=com.app.learnbay"
+            href="https://play.google.com/store/apps/details?id=co.groot.uavnc&pcampaignid=web_share"
             target="_blank"
           >
             <button className={styles.btnout}>
