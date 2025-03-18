@@ -13,7 +13,6 @@ import { sortByDate } from "../../utils";
 import { useState } from "react";
 
 export default function CategoryBlog({ categoryPosts }) {
-
   const [visible, setVisible] = useState(9);
 
   const showMoreItems = () => {
@@ -23,98 +22,98 @@ export default function CategoryBlog({ categoryPosts }) {
   const cattitle = categoryPosts[0]?.cattitle || "";
   const catdesc = categoryPosts[0]?.catdesc || "";
 
-  return <>
+  return (
+    <>
+      <NextSeo
+        title={`${cattitle}`}
+        description={`${catdesc}`}
+        // Add other SEO properties as needed
+      />
 
-    <NextSeo
-      title={`${cattitle}`}
-      description={`${catdesc}`}
-    // Add other SEO properties as needed
-    />
-
-
-    <Head>
-
-      {categoryPosts.slice(0, 1).map(
-        ({ category, categoryPosts }) => {
+      <Head>
+        {categoryPosts.slice(0, 1).map(({ category, categoryPosts }) => {
           let makeUrl = category.toLowerCase().replace(/\s+/g, "-");
 
           return (
-
             <>
-
-              <link rel="canonical" href={'https://blog.learnbay.co/category/' + makeUrl} />
-
+              <link
+                rel="canonical"
+                href={"https://blog.learnbay.co/category/" + makeUrl}
+              />
             </>
-
-
           );
-        }
-      )}
-      {/* <html lang="en" /> */}
-      <meta name="robots" content="index, follow" />
-      <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
+        })}
+        {/* <html lang="en" /> */}
+        <meta name="robots" content="index, follow" />
+        <link
+          rel="icon"
+          href="https://d32and0ii3b8oy.cloudfront.net/web/s3_main/cloud-computing/website-icon.webp"
+        />
+      </Head>
 
-
-
-
-    </Head>
-
-
-
-
-    {/* <section className={styles.blogHead}>
+      {/* <section className={styles.blogHead}>
       {categoryPosts.slice(0, 1).map((category) => {
         return <p key={category.tag}>{category.tag}</p>;
       })}
     </section> */}
-    <br></br><br></br><br></br>
-    <section className={styles.blogWrap}>
-      {categoryPosts.slice(0, visible).map(
-        ({ id, date, title, author, readTime, headerImg, categoryPosts }) => {
-          const url = `/${id}`;
-          return (
-            <div
-              className={styles.blog}
-              key={id}
-              style={{
-                background: `linear-gradient(0deg, rgba(0,0,0,0.8) 34%, rgba(255,255,255,0) 200%), url(${headerImg}) no-repeat center center `,
-                backgroundSize: "cover",
-              }}
-            >
-              <a href={url}>
-                <h4>{title}</h4>
-              </a>
-              <div className={styles.profileWrap}>
-                <Image
-                  src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/avatar-02.webp"
-                  width="80"
-                  height="45"
-                  layout="intrinsic"
-                  alt="blog_writer"
-                  className={styles.blogIMg}
-                />
-                <span>
-                  <h5>{author}</h5>
-                  <p>
-                    {date} <BsDot className={styles.dot} />
-                    <IoTimeOutline className={styles.time} />
-                    {readTime}
-                  </p>
-                </span>
-              </div>
-            </div>
-          );
-        }
-      )}
-    </section>
+      <br></br>
+      <br></br>
+      <br></br>
+      <section className={styles.blogWrap}>
+        {categoryPosts
+          .slice(0, visible)
+          .map(
+            ({
+              id,
+              date,
+              title,
+              author,
+              readTime,
+              headerImg,
+              categoryPosts,
+            }) => {
+              const url = `/${id}`;
+              return (
+                <div
+                  className={styles.blog}
+                  key={id}
+                  style={{
+                    background: `linear-gradient(0deg, rgba(0,0,0,0.8) 34%, rgba(255,255,255,0) 200%), url(${headerImg}) no-repeat center center `,
+                    backgroundSize: "cover",
+                  }}
+                >
+                  <a href={url}>
+                    <h4>{title}</h4>
+                  </a>
+                  <div className={styles.profileWrap}>
+                    <Image
+                      src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/avatar-02.webp"
+                      width="80"
+                      height="45"
+                      layout="intrinsic"
+                      alt="blog_writer"
+                      className={styles.blogIMg}
+                    />
+                    <span>
+                      <h5>{author}</h5>
+                      <p>
+                        {date} <BsDot className={styles.dot} />
+                        <IoTimeOutline className={styles.time} />
+                        {readTime}
+                      </p>
+                    </span>
+                  </div>
+                </div>
+              );
+            }
+          )}
+      </section>
 
-    <div className={styles.loadMore}>
-
-      <button onClick={showMoreItems}>Load More...</button>
-    </div>
-
-
-  </>;
+      <div className={styles.loadMore}>
+        <button onClick={showMoreItems}>Load More...</button>
+      </div>
+    </>
+  );
 }
 
 export async function getStaticPaths() {
