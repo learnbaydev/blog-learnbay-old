@@ -27,7 +27,6 @@ cattitle: "Latest News, Updates, Blogs on Technology and Innovations - Learnbay 
 catdesc: "Check out the Learnbay technology resources section, featuring a comprehensive collection of blogs on topics such as web development, , AI, data science, and more."
 authortitle: ""
 authordesc: ""
-
 position: "Editor"
 readTime: "17-21 mins"
 

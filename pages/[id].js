@@ -143,7 +143,7 @@ export default function Post({ postData, posts, updatesd }) {
                  "url": "https://blog.learnbay.co/_next/image?url=https%3A%2F%2Flearnbay-wb.s3.ap-south-1.amazonaws.com%2Fmain-blog%2FLearnbay-Logo.webp&w=256&q=100"
                 }
                },
-             "datePublished": "${postData.date}",
+             "datePublished": "${postData.date}"
               }
             } `,
             }}
