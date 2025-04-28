@@ -335,6 +335,34 @@ module.exports = {
         destination: "/learnbay-top-12-data-science-courses-for-professionals",
         permanent: true,
       },
+      {
+        source:
+          "/oops-why-2023-is-too-late-for-video-Based-data-science-learning",
+        destination: "/oops-why-2023-is-too-late-for-video-based-data-science-learning",
+        permanent: true,
+      },
+      {
+        source:
+          "/full-stack-developer-langages",
+        destination: "/full-stack-developer-languages",
+        permanent: true,
+      },
+
+
+
+      {
+        source:
+          "/top-15-cloud-",
+        destination: "/top-15-cloud-computing-challenging-issues-and-effective-solutions",
+        permanent: true,
+      },
+
+      {
+        source:
+          "/10-mu",
+        destination: "/10-must-know-machine-learning-algorithms-for-beginners-in-2023",
+        permanent: true,
+      },
     ];
   },
   eslint: {
