@@ -213,17 +213,17 @@ module.exports = {
       //   permanent: true,
       // },
 
-      {
-        source: "/author/learnbay",
-        destination: "/",
-        permanent: true,
-      },
+      // {
+      //   source: "/author/learnbay",
+      //   destination: "/",
+      //   permanent: true,
+      // },
 
-      {
-        source: "/author",
-        destination: "/",
-        permanent: true,
-      },
+      // {
+      //   source: "/author",
+      //   destination: "/",
+      //   permanent: true,
+      // },
 
       {
         source: "/full-stack-development-for-techies",
