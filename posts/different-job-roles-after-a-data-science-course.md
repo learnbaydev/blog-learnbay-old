@@ -18,8 +18,8 @@ category: "Hot Topics"
 
 cattitle: "Stay Updated with Hot Tech Trends and Topics - Learnbay Blog"
 catdesc: "Explore Learnbay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
-authortitle: ""
-adesc: ""
+authortitle: "LearnBay Blog - Expert Career Tips & Tech Insights"
+adesc: "Explore LearnBay’s latest blogs on data science, AI, and career growth tips curated by industry experts to help you stay ahead in the tech world."
 
 position: "Editor"
 readTime: "20-25 mins"

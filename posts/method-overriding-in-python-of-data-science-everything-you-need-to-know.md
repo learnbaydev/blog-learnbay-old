@@ -14,8 +14,8 @@ category: "Python"
 
 cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"
 catdesc: "Python resources feature a wide range of Bogs, tutorials covering from basic syntax and programming concepts to advanced topics such as ML,  data science etc."
-authortitle: ""
-adesc: ""
+authortitle: "LearnBay Blog - Expert Career Tips & Tech Insights"
+adesc: "Explore LearnBay’s latest blogs on data science, AI, and career growth tips curated by industry experts to help you stay ahead in the tech world."
 
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"

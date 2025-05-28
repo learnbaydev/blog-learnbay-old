@@ -18,8 +18,8 @@ category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
 catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
-authortitle: ""
-adesc: ""
+authortitle: "LearnBay Blog - Expert Career Tips & Tech Insights"
+adesc: "Explore LearnBay’s latest blogs on data science, AI, and career growth tips curated by industry experts to help you stay ahead in the tech world."
 
 position: "Editor"
 readTime: "10-12 mins"

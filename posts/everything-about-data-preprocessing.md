@@ -18,8 +18,8 @@ category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
 catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
-authortitle: ""
-adesc: ""
+authortitle: "LearnBay Blog - Expert Career Tips & Tech Insights"
+adesc: "Explore LearnBay’s latest blogs on data science, AI, and career growth tips curated by industry experts to help you stay ahead in the tech world."
 
 position: "Editor"
 readTime: "4-5 mins"

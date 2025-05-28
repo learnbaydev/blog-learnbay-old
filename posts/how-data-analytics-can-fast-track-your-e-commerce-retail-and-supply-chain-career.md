@@ -19,13 +19,13 @@ tag:
   ]
 author: "Learnbay"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
-adesc: ""
+adesc: "Explore LearnBay’s latest blogs on data science, AI, and career growth tips curated by industry experts to help you stay ahead in the tech world."
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 category: "Technology"
 
 cattitle: "Latest News, Updates, Blogs on Technology and Innovations - Learnbay Blogs"
 catdesc: "Check out the Learnbay technology resources section, featuring a comprehensive collection of blogs on topics such as web development, , AI, data science, and more."
-authortitle: ""
+authortitle: "LearnBay Blog - Expert Career Tips & Tech Insights"
 authordesc: ""
 position: "Editor"
 readTime: "17-21 mins"
