@@ -18,8 +18,8 @@ category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - Learnbay Blogs"
 catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
-authortitle: ""
-adesc: ""
+authortitle: "LearnBay Blog - Expert Career Tips & Tech Insights"
+adesc: "Explore LearnBay’s latest blogs on data science, AI, and career growth tips curated by industry experts to help you stay ahead in the tech world."
 
 position: "Editor"
 readTime: "8-10 mins"
