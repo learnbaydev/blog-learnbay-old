@@ -143,7 +143,7 @@ Python has compatibility with most operating systems like Windows, Linux, Mac, U
 
 ## In Conclusion  
 
-**Can I learn Python on my own?** Yes, of course. Plenty of python learning videos are now available over the internet. A few reliable options are Codecademy, Learnpython.org, and LinkedIn python learning courses, and you can download Python for free <a href="https://www.python.org/downloads/" target="_blank" rel="nofollow">here.</a>
+**Can I learn Python on my own?** Yes, of course. Plenty of python learning videos are now available over the internet. A few reliable options are Codecademy, Learnpython.org, and LinkedIn python learning courses, and you can <a href="https://www.python.org/downloads/" target="_blank" rel="nofollow">download Python for free</a>.
 
 These are only for gathering an essential stage of knowledge. If you have data science career transition planning, you must choose a creditable course featured with real-time industrial projects.
 
