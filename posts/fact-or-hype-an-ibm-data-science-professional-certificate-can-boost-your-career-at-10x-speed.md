@@ -145,6 +145,6 @@ You can get different IBM professional data certification courses with different
 
 Learnbay knows the importance of certificates and their value when you apply for employment. Hence, this institute ensures the right certificates so that you can approach the MAANG company interview with the highest possible level of confidence. Learnbay IBM certificates (mainly the project experience certificate) are recognized by Top-notch MNCs and Lead start-ups.
 
-So, that's all about the unique IBM Data Science Professional Certification. If you are still not clear about its uniqueness, you can schedule free personalized data science career counseling by an Industry expert <a href="https://www.learnbay.co/" target="_blank">here</a>.
+So, that's all about the unique IBM Data Science Professional Certification. If you are still not clear about its uniqueness, you can schedule free personalized data science career counseling by an Industry expert <a href="https://www.learnbay.co/" target="_blank">Industry expert report from Learnbay</a>.
 
 To get instant updates about data science and AI happenings around the world, you can follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://bit.ly/Learnbay_YouTube" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/" target="_blank">Linkedin</a>, and <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
