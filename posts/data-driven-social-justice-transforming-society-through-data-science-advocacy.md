@@ -1,6 +1,6 @@
 ---
 title: The Intersection of Data Science and Social Justice:- Using Data to Drive Change
-stitle: "Data-Driven Social Justice: Transforming Society Through Data Science Advocacy"
+stitle: "Data Science for Social Justice - Learnbay"
 publish: "Published on"
 published_time: "2023-11-27T13:25:31+05:30"
 modified_time: "2023-11-27T13:25:31+05:30"
@@ -62,7 +62,7 @@ Businesses can drastically improve their effectiveness. They can effectively wor
 
 ## Benefits of data science in social justice
 
-- ###  Better predictions
+- ### Better predictions
 
 Machine learning models can create better analysis and solve many types of problems when integrated with AI. ML algorithms are used to identify hidden trends and patterns in data. They are highly accurate and can provide meaningful solutions to complex problems. Hence, AI and ML also improve prediction accuracy using data science.</br>
 
@@ -70,13 +70,13 @@ ML may help understand the accuracy of a hypothesis or prediction. ML models can
 
 A proficient model is capable of adapting to any concern to provide enhanced analysis. But everything depends on your ML abilities, and in order to achieve top-notch ability, nothing can be as helpful as an online program for a <b>Master's in Data Science and AI.</b></br>
 
--  ### Data-driven solutions
+- ### Data-driven solutions
 
 The vast amount of data present in the world can be helpful. It can help us understand the demands of numerous people across the globe. Machine learning models can create data-driven solutions that help implement better policies. The models use solid logic and math calculations.</br>
 
 There are vast amounts of data produced every day. Digitizing the data and tools like sentiment analysis can be helpful. We can study these tools in a <b>data science course online</b>. The tools help minimize the effort and cost of creating new policies through <b>data-driven decision-making</b>.</br>
 
-- ###  Public welfare
+- ### Public welfare
 
 Modern data analysis can provide accuracy in economic and social cases. Private firms assess data taken from operations through data analytics tools. Government firms also collect data for proper understanding. This helps them enhance plans to develop the country and its people.</br>
 
@@ -88,7 +88,7 @@ Data on the census, finances, location, labor, and more help improve public welf
 
 Data analytics looks to progress with its applications and improve the social justice structure. However, it also has many issues.</br>
 
-- ###  Privacy
+- ### Privacy
 
 Handling data privacy is a critical issue in modern society. With enough and easily available data in the world, providing privacy is a major concern. It presents a risk of people's sensitive data being available to the public. Companies need to be careful in gathering and processing user data.</br>
 
@@ -96,7 +96,7 @@ Handling data privacy is a critical issue in modern society. With enough and eas
 
 An impressive application of data science is in chatbots like ChatGPT. However, these chatbots often displayed bias in their answers. The chatbots train the models using data. As most data contains bias the models also display biased answers. A <b>Masters in Data Science and Artificial Intelligence degree Program</b> can help you study how to prevent these biasing issues in your models.</br>
 
-- ###  Jobs
+- ### Jobs
 
 Companies now depend more on artificial intelligence, which may harm human workers. They may face unemployment issues or less income by adding AI into their workforce. However, if professionals can upgrade their skills to handle data science and AI, then everything will be balanced.</br>
 

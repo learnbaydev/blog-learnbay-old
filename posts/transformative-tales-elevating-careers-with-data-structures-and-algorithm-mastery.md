@@ -1,6 +1,6 @@
 ---
 title: "Real-Life Success Stories: How Data Structures and Algorithms Skills Opened Career Doors?"
-stitle: "Transformative Tales: Elevating Careers with Data Structures and Algorithm Mastery"
+stitle: "Boost Your Career with DSA Skills - Learnbay"
 publish: "Published on"
 published_time: "2024-01-03T13:25:31+05:30"
 modified_time: "2024-01-03T13:25:31+05:30"

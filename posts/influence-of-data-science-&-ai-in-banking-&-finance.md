@@ -34,7 +34,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "The Rising Influence of Data Science and AI in Banking & Finance"
+h1: "Data Science Blogs & Industry Insights"
 id: "influence-of-data-science-&-ai-in-banking-&-finance"
 tableData:
   [

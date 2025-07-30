@@ -1,6 +1,6 @@
 ---
 title: Introduction to Simple Linear Regression in Machine Learning
-stitle: "Introduction to Simple Linear Regression in Machine Learning"
+stitle: "Simple Linear Regression in ML - Learnbay"
 publish: "Published on"
 published_time: "2021-09-07T13:25:31+05:30"
 modified_time: "2021-09-07T13:25:31+05:30"
@@ -30,7 +30,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Introduction to Simple Linear Regression in Machine Learning"
+h1: "A Beginner’s Guide to Linear Regression"
 id: "introduction-to-simple-linear-regression-in-machine-learning"
 tableData:
   [

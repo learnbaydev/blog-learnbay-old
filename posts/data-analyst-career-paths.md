@@ -1,6 +1,6 @@
 ---
 title: "Data Analytics Career Path: How to Start, Grow, and Succeed"
-stitle: "Data Analytics Career Path: How to Start, Grow, and Succeed"
+stitle: "Data Analyst Career Paths in 2025 - Learnbay"
 publish: "Published on"
 published_time: "2023-06-07T13:25:31+05:30"
 modified_time: "2023-06-07T13:25:31+05:30"
@@ -39,7 +39,7 @@ vduration: "PT4M57S"
 vcontentUrl: "https://youtu.be/OkwFjqlRWsM"
 vthumbnailUrl: "http://i3.ytimg.com/vi/OkwFjqlRWsM/hqdefault.jpg"
 
-h1: "Data Analytics Career Path: How to Start, Grow, and Succeed"
+h1: "Your Roadmap to a Data Analyst Career"
 id: "data-analyst-career-paths"
 tableData:
   [
