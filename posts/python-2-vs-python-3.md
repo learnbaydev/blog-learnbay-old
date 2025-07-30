@@ -38,7 +38,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Python 2 Vs Python 3: Know How They Differ?"
+h1: "Python Programming Tips & Resources"
 id: python-2-vs-python-3
 
 tableData:

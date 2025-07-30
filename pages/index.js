@@ -26,7 +26,7 @@ export default function blog({ allPostsData }) {
           Learnbay Blogs - Latest Career Upskilling Trends and Learning
           Resources
         </title>
-
+        <h1>Learnbay Blog: Latest Insights in AI, Data Science & Technology</h1>
         <meta
           name="description"
           content="Stay Ahead with Learnbay Blogs on Upskilling Resources & IT Careers in AI, Data Science, Machine Learning & Full Stack Development For Learners & Professionals "

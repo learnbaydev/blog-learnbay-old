@@ -1,6 +1,6 @@
 ---
 title: Data Visualization:- Principles and Best Practices for Communicating Data Insights
-stitle: " Mastering Data Visualization: Principles and Best Practices for Effective Insights"
+stitle: "Data Visualization Best Practices - Learnbay"
 publish: "Published on"
 published_time: "2023-11-27T13:25:31+05:30"
 modified_time: "2023-11-27T13:25:31+05:30"
@@ -76,7 +76,7 @@ You can start by considering the following:
 
 Do not make the visualization very much detailed, and too little must also not be provided. Try to decide how much information is required to properly convey the insights to others.</br></br>
 
-## 2. Audience comes first   
+## 2. Audience comes first
 
 Visualizations are only useful if they clearly communicate the design to the audience. You must keep in mind the target audience’s knowledge and tailor your designs accordingly. You should learn how to communicate effectively your visualizations to an audience.</br>
 
@@ -89,7 +89,7 @@ You may ask questions like:
 
 As everybody looks at a picture with a different lens, knowing as much about your audience according to the goal is helpful.</br></br>
 
-## 3. Choose correct visuals   
+## 3. Choose correct visuals
 
 After considering the data you need to convey and your target audience, you can choose the right visual features to add to convey your message. The correct visuals should make the data easily accessible and present it accurately.</br>
 
@@ -105,7 +105,7 @@ Most of your visualizations will consist of numbers and charts. Here are some ty
 - Bar charts</br>
 - Heat maps</br></br>
 
-## 4. Build coherent and organized representations    
+## 4. Build coherent and organized representations
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/data_representation.png" style="width:100%" class="img" alt="An image shows an organized representation using data with pie chart, graphs, bargrpash etc."/></br></br>
 
@@ -113,13 +113,13 @@ When working with large data sets, coherence helps a lot. Your design should pro
 
 Moreover, a chart’s order, colors, or even element size can represent data more easily. Your visualization should clearly define which data should be focused on and which is less important. You must study the proper way to visualize data using the <b>best practices for data visualization</b>.</br></br>
 
-## Conclusion   
+## Conclusion
 
 <b>Data visualization</b> includes telling a story via data. To make a compelling story from your data, you must first understand the audience. An effective visualization shows a narrative based on which the audience can comprehend your message.</br>
 
 You can create a visually appealing visualization with the right <b>data visualization tools</b>, visual representations, clear goals, and audience knowledge. To help you understand and improve your visualization skills, you must have knowledge of the <b>best practices for data visualization</b>.</br>
 
-Many online programs offer top-notch methods and tricks to help learners become proficient in visualization. Not only that, an  <b><a href="https://www.learnbay.co/datascience/data-science-and-ai-masters-in-cs" target="_blank">online master's degree data science</a></b> will help you learn other essential skills as well, such as communication, data analysis, and more.</br>
+Many online programs offer top-notch methods and tricks to help learners become proficient in visualization. Not only that, an <b><a href="https://www.learnbay.co/datascience/data-science-and-ai-masters-in-cs" target="_blank">online master's degree data science</a></b> will help you learn other essential skills as well, such as communication, data analysis, and more.</br>
 
 The master’s in data science and AI program offers the necessary knowledge to become an expert data scientist. Through their expert mentorship, you can gain basic and advanced level skills. The program helps working professionals progress their careers forward to more advanced positions such as managers.</br>
 
@@ -131,8 +131,9 @@ Learners can opt from the many domains from healthcare to finance to apply their
 
 ## Frequently asked questions
 
-### 1.  Explain the five data visualization techniques.
- **Ans.** Different kinds of <b>data visualization</b> techniques are present. Some common ones include:
+### 1. Explain the five data visualization techniques.
+
+**Ans.** Different kinds of <b>data visualization</b> techniques are present. Some common ones include:
 
 - Matrices</br>
 - Maps (cartograms, dot distribution maps, heat maps, etc.)</br>
@@ -141,11 +142,13 @@ Learners can opt from the many domains from healthcare to finance to apply their
 - Charts (pie, line, bar, etc.)</br></br>
 
 ### 2. What are the 3 uses of data visualization?
+
 **Ans.** The usage of data visualization can be broken down into three major categories:
 
 - Exploring</br>
 - Monitoring</br>
 - Explaining</br></br>
 
-### 3.  Explain data visualization tools?
+### 3. Explain data visualization tools?
+
 **Ans.** Software that develops data in a visual manner, like charts, graphs, heat maps, and more, is known as a <b>data visualization</b> tool. These help mainly in data analysis. They turn massive amounts of data into an easily readable and workable format.

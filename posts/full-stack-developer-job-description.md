@@ -1,6 +1,6 @@
 ---
 title: Breaking Down The Full Stack Developer Job Description
-stitle: "Breaking Down The Full Stack Developer Job Description"
+stitle: "Full Stack Developer Job Description - Learnbay"
 publish: "Published on"
 published_time: "2023-05-27T13:25:31+05:30"
 modified_time: "2023-05-27T13:25:31+05:30"
@@ -28,7 +28,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Breaking Down The Full Stack Developer Job Description"
+h1: "What Does a Full Stack Developer Do?"
 id: "full-stack-developer-job-description"
 tableData:
   [

@@ -1,6 +1,6 @@
 ---
 title: Different Job Roles After A Data Science Course
-stitle: "Different Job Roles After A Data Science Course"
+stitle: "Job Roles After a Data Science Course - Learnbay"
 publish: "Published on"
 published_time: "2022-04-07T13:25:31+05:30"
 modified_time: "2022-04-07T13:25:31+05:30"
@@ -30,7 +30,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Different Job Roles After A Data Science Course"
+h1: "Data Science Course Outcomes: Career Roles"
 id: "different-job-roles-after-a-data-science-course"
 tableData:
   [
