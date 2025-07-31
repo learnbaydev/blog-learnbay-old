@@ -36,7 +36,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Machine Learning Blogs, Projects & News"
+h1: "Role of Automated Deep Learning Algorithm For Reliable Screening of Chest Radiographs"
 id: "automated-deep-learning-for-chest-radiograph-screening"
 tableData: [
     Traditional/Manual Chest Radiograph Screening System,
@@ -99,6 +99,8 @@ _<b>Some proven benefits are –</b>_
 _<b>Let’s know the risks of automated deep learning algorithms.</b>_
 
 ## Risks of Automated Deep Learning in Radiograph Screening
+
+
 
 ### - Feature Enrichment
 

@@ -1,6 +1,6 @@
 ---
 title: AI in Automotive Industry - Maneuvering the Automobile Sector of 2023
-stitle: "AI in Automotive Industry - Learnbay"
+stitle: "AI in the Automotive Industry: Revolutionizing the Automobile Sector of 2023"
 publish: "Published on"
 published_time: "2023-03-24T13:25:31+05:30"
 modified_time: "2023-03-24T13:25:31+05:30"

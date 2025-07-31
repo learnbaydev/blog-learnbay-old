@@ -1,6 +1,6 @@
 ---
 title: Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package
-stitle: "Lucrative BFSI Salary Packages & Roles - Learnbay"
+stitle: "Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package"
 publish: "Published on"
 published_time: "2022-04-07T13:25:31+05:30"
 modified_time: "2022-04-07T13:25:31+05:30"
@@ -30,7 +30,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Top Careers & Salary Packages in Banking, Finance & Insurance"
+h1: "Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package"
 id: "banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package"
 tableData:
   [

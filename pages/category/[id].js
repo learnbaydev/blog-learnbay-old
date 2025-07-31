@@ -21,15 +21,12 @@ export default function CategoryBlog({ categoryPosts }) {
 
   const cattitle = categoryPosts[0]?.cattitle || "";
   const catdesc = categoryPosts[0]?.catdesc || "";
-  const cath1 = categoryPosts[0]?.h1 || "";
 
   return (
     <>
       <NextSeo
         title={`${cattitle}`}
         description={`${catdesc}`}
-        h1={`${cath1}`}
-
         // Add other SEO properties as needed
       />
 
@@ -53,13 +50,7 @@ export default function CategoryBlog({ categoryPosts }) {
           href="https://d32and0ii3b8oy.cloudfront.net/web/s3_main/cloud-computing/website-icon.webp"
         />
       </Head>
-      <section className={styles.categoryHeader}>
-        <div className={styles.container}>
-          <h1 className={styles.categoryTitle}>
-            {cath1 || `${categoryPosts[0]?.category} Courses and Articles`}
-          </h1>
-        </div>
-      </section>
+
       {/* <section className={styles.blogHead}>
       {categoryPosts.slice(0, 1).map((category) => {
         return <p key={category.tag}>{category.tag}</p>;
@@ -75,7 +66,6 @@ export default function CategoryBlog({ categoryPosts }) {
             ({
               id,
               date,
-              h1,
               title,
               author,
               readTime,

@@ -1,6 +1,6 @@
 ---
 title: "Data Structures or Algorithms: What to Learn First?"
-stitle: "Data Structures vs Algorithms: What to Learn First - Learnbay"
+stitle: "Data Structures or Algorithms: What to Learn First?"
 publish: "Published on"
 published_time: "2023-08-10T13:25:31+05:30"
 modified_time: "2023-08-10T13:25:31+05:30"
@@ -31,7 +31,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Data Structures or Algorithms—Your Learning Path"
+h1: "Data Structures or Algorithms: What to Learn First?"
 id: "data-structures-or-algorithms-what-to-learn-first"
 tableData:
   [

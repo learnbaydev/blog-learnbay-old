@@ -1,6 +1,6 @@
 ---
 title: How To Increase The Accuracy Of Machine Learning Model Over 90%?
-stitle: "Increase ML Model Accuracy Over 90% - Learnbay"
+stitle: "How To Increase The Accuracy Of Machine Learning Model Over 90%?"
 publish: "Published on"
 published_time: "2023-04-10T13:25:31+05:30"
 modified_time: "2023-04-10T13:25:31+05:30"
@@ -34,7 +34,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "How to Achieve High Accuracy in ML Models"
+h1: "How To Increase The Accuracy Of Machine Learning Model Over 90%?"
 id: how-to-increase-the-accuracy-of-machine-learning-model-over-90
 tableData:
   [

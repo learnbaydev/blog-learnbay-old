@@ -1,6 +1,6 @@
 ---
 title: A Beginner's Guide to Answering Behavioral Interview Questions for Data Science Roles
-stitle: "Data Science Interview Prep Guide - Learnbay"
+stitle: "Mastering Data Science Behavioral Interviews: A Beginner's Comprehensive Guide"
 publish: "Published on"
 published_time: "2024-02-24T13:25:31+05:30"
 modified_time: "2024-02-24T13:25:31+05:30"
@@ -24,6 +24,7 @@ cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
 catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
 authortitle: "Krishna Kumar: Founder and CEO of Learnbay"
 adesc: "Krishna Kumar, the Founder and CEO of Learnbay. Brings over 10+ years of experience in software engineering, data science and AI."
+
 
 position: "Editor"
 readTime: "7.12 mins"

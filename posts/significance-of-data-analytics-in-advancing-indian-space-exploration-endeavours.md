@@ -1,6 +1,6 @@
 ---
 title: "How Data Analytics Is Crucial for India's Space Missions ?"
-stitle: "Data Analytics in Indian Space - Learnbay"
+stitle: "Significance of Data Analytics in Advancing India's Space Exploration Endeavours"
 publish: "Published on"
 published_time: "2023-09-21T13:25:31+05:30"
 modified_time: "2023-09-21T13:25:31+05:30"

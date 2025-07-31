@@ -1,6 +1,6 @@
 ---
 title: What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?
-stitle: "Job-Ready Capstone Projects in Data Science - Learnbay"
+stitle: "What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?"
 publish: "Published on" 
 published_time: "2022-08-29T13:25:31+05:30"
 modified_time:  "2022-08-29T13:25:31+05:30"
@@ -30,7 +30,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "The Importance of Capstone Projects in AI & Data Science"
+h1: "What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?"
 id: "what-is-a-job-ready-capstone-project-and-why-is-it-important-in-ai-and-data-science-course"
 tableData:
   [
@@ -51,6 +51,8 @@ tableData:
     
   ]
 ---
+
+# What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?
 
 Capstone Project Is What You Need To Stand Out From Other Applicants During Recruitment
 

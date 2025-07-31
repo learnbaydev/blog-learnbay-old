@@ -1,6 +1,6 @@
 ---
 title: "Full Stack Development for Non-Techies: How to Get Started"
-stitle: "Full Stack Development for Non-Techies - Learnbay"
+stitle: "Full Stack Development for Non-Techies: How to Get Started"
 publish: "Published on"
 published_time: "2023-06-02T13:25:31+05:30"
 modified_time: "2023-06-02T13:25:31+05:30"
@@ -29,7 +29,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Can Non-Techies Learn Full Stack Development?"
+h1: "Full Stack Development for Non-Techies: How to Get Started"
 id: "full-stack-development-for-non-techies"
 tableData:
   [

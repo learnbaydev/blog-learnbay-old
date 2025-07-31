@@ -1,6 +1,6 @@
 ---
 title: "Essential Data Structures: Must-Know Basics for Every Programmer"
-stitle: "Essential Data Structures for Programmers - Learnbay"
+stitle: "Essential Data Structures: Must-Know Basics for Every Programmer"
 publish: "Published on"
 published_time: "2023-08-23T13:25:31+05:30"
 modified_time: "2023-08-23T13:25:31+05:30"
@@ -29,7 +29,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Data Structure Tutorials & Best Practices"
+h1: "Essential Data Structures: Must-Know Basics for Every Programmer"
 id: "essential-data-structures-must-know-basics-for-every-programmer"
 tableData: [List of the best data structures to master, 
 1. Array, 
