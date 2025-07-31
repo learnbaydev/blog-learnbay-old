@@ -1,7 +1,7 @@
 ---
 title: "Impact of Algorithms and Data Structures in Revolutionizing Global Industries
 "
-stitle: "Transforming Global Sectors: Algorithms and Data Structures' Profound Impact"
+stitle: "Algorithms Reshaping Industries - Learnbay"
 publish: "Published on"
 published_time: "2023-09-20T13:25:31+05:30"
 modified_time: "2023-09-20T13:25:31+05:30"
@@ -31,8 +31,7 @@ vcontentUrl: ""
 vthumbnailUrl: ""
 h1: "Impact of Algorithms and Data Structures in Revolutionizing Global Industries
 "
-id: "transforming-global-sectors-algorithms-and-data-structures-profound-impact
-"
+id: "transforming-global-sectors-algorithms-and-data-structures-profound-impact"
 tableData:
   [
     Understanding data structures and algorithms,

@@ -1,6 +1,6 @@
 ---
 title: Beyond Buzzwords:- Realities and Myths of AI in Cybersecurity for 2024
-stitle: "Decoding AI's Impact on Cybersecurity: Navigating Realities and Myths (2024)"
+stitle: "AI’s Impact on Cybersecurity 2024 - Learnbay"
 publish: "Published on"
 published_time: "2024-01-29T13:25:31+05:30"
 modified_time: "2024-01-29T13:25:31+05:30"

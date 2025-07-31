@@ -1,6 +1,6 @@
 ---
 title: 7 Must-Know Web Development Languages of 2023
-stitle: "7 Must-Know Web Development Languages of 2023"
+stitle: "7 Essential Web Development Languages 2025 - Learnbay"
 publish: "Published on"
 published_time: "2023-01-25T13:25:31+05:30"
 modified_time: "2023-01-7T13:25:31+05:30"
@@ -36,7 +36,7 @@ vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
 
-h1: "7 Must-Know Web Development Languages of 2023"
+h1: "Must-Know Web Development Languages for 2025"
 id: "7-must-know-web-development-languages-of-2023"
 tableData:
   [

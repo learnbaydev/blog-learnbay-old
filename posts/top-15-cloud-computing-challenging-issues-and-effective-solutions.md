@@ -33,7 +33,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Top 15 Cloud Computing Challenging Issues and Effective Solutions"
+h1: "Cloud Computing Trends & Career Guides"
 id: "top-15-cloud-computing-challenging-issues-and-effective-solutions"
 tableData: [
 Cloud Computing:- Key Challenges & Effective Solutions,

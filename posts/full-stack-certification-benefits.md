@@ -1,6 +1,6 @@
 ---
 title: "The Benefits of Pursuing a Full Stack developer Certification"
-stitle: "The Benefits of Pursuing a Full Stack developer Certification"
+stitle: "Full Stack Certification Benefits Explained - Learnbay"
 publish: "Published on"
 published_time: "2023-05-31T13:25:31+05:30"
 modified_time: "2023-05-31T13:25:31+05:30"
@@ -28,7 +28,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "The Benefits of Pursuing a Full Stack developer Certification"
+h1: "Why Earn a Full Stack Developer Certification?"
 id: "full-stack-certification-benefits"
 tableData:
   [

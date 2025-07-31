@@ -1,6 +1,6 @@
 ---
 title: "From Data to Insights: Real-World Applications of Data Science"
-stitle: "Transforming Data into Actionable Insights: Real-World Data Science Applications"
+stitle: "Real-World Data Science Insights - Learnbay"
 publish: "Published on"
 published_time: "2023-11-17T13:25:31+05:30"
 modified_time: "2023-11-17T13:25:31+05:30"
