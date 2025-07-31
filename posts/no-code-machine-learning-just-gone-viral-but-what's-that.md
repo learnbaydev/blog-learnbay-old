@@ -1,6 +1,6 @@
 ---
 title: No Code Machine Learning Just Gone Viral!- But What's That?
-stitle: "No-Code Machine Learning Explained - Learnbay"
+stitle: "No Code Machine Learning Just Gone Viral!- But What's That?"
 publish: "Published on"
 published_time: "2022-09-02T13:25:31+05:30"
 modified_time: "2022-09-02T13:25:31+05:30"
@@ -30,7 +30,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "What Is No-Code Machine Learning?"
+h1: "No Code Machine Learning Just Gone Viral!- But What's That?"
 id: "no-code-machine-learning-just-gone-viral-but-what's-that"
 tableData:
   [
@@ -56,6 +56,8 @@ tableData:
     Conclusion,
   ]
 ---
+
+# No Code Machine Learning Just Gone Viral!- But What's That?
 
 ## Introduction to No code Machine Learning:-
 

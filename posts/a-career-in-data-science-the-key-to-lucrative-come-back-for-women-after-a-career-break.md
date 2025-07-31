@@ -1,6 +1,6 @@
 ---
 title: A Career in Data Science - The Key To Lucrative Come-back for Women After a Career Break
-stitle: "Data Science Comeback Careers for Women - Learnbay"
+stitle: "A Career in Data Science - The Key To Lucrative Come-back for Women After a Career Break"
 publish: "Published on"
 published_time: "2022-09-28T13:25:31+05:30"
 modified_time: "2022-09-28T13:25:31+05:30"
@@ -40,7 +40,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "How Women Restart Careers in Data Science"
+h1: "A Career in Data Science - The Key To Lucrative Come-back for Women After a Career Break"
 id: "a-career-in-data-science-the-key-to-lucrative-come-back-for-women-after-a-career-break"
 tableData:
   [

@@ -1,6 +1,6 @@
 ---
 title: Clustering & Types Of Clustering
-stitle: "Clustering in Data Science: Unsupervised Learning - Learnbay"
+stitle: "Clustering & Types Of Clustering"
 publish: "Published on"
 published_time: "2020-11-17T13:25:31+05:30"
 modified_time: "2020-11-17T13:25:31+05:30"
@@ -30,7 +30,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "A Guide to Clustering & Unsupervised Learning"
+h1: "Clustering & Types Of Clustering"
 id: "clustering-data-science-unsupervised-learning"
 tableData: [Types of clustering technique]
 ---

@@ -1,6 +1,6 @@
 ---
 title: How to Build a Portfolio as a Full Stack Web Developer
-stitle: "Full Stack Web Developer Portfolio Guide - Learnbay"
+stitle: "How to Build a Portfolio as a Full Stack Web Developer"
 publish: "Published on"
 published_time: "2023-05-29T13:25:31+05:30"
 modified_time: "2023-05-29T13:25:31+05:30"
@@ -29,7 +29,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Building an Impressive Full Stack Developer Portfolio"
+h1: "How to Build a Portfolio as a Full Stack Web Developer"
 id: "full-stack-web-developer-portfolio"
 tableData:
   [

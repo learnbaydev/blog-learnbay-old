@@ -1,6 +1,6 @@
 ---
 title: "Becoming a Full Stack Developer: The Ultimate Career Hack"
-stitle: "Become a Full Stack Developer in 2025 - Learnbay"
+stitle: "Becoming a Full Stack Developer: The Ultimate Career Hack"
 publish: "Published on"
 published_time: "2023-05-28T13:25:31+05:30"
 modified_time: "2023-05-28T13:25:31+05:30"
@@ -29,7 +29,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Your Guide to Becoming a Full Stack Developer"
+h1: "Becoming a Full Stack Developer: The Ultimate Career Hack"
 id: "become-full-stack-developer"
 tableData:
   [

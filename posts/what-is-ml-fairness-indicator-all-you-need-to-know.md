@@ -1,6 +1,6 @@
 ---
 title: What is ML Fairness Indicator?- All You Need to Know
-stitle: "ML Fairness Indicator: Explained - Learnbay"
+stitle: "What is ML Fairness Indicator?- All You Need to Know"
 publish: "Published on"
 published_time: "2022-11-02T13:25:31+05:30"
 modified_time: "2022-11-02T13:25:31+05:30"
@@ -30,7 +30,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Understanding the ML Fairness Indicator Tool"
+h1: "What is ML Fairness Indicator?- All You Need to Know"
 id: "what-is-ml-fairness-indicator-all-you-need-to-know"
 tableData:
   [

@@ -1,6 +1,6 @@
 ---
 title: Is Data Structure and Algorithm Important to Crack Product-based Company Interviews?
-stitle: "DSA for Product-Based Interviews - Learnbay"
+stitle: "Is Data SScience & Algorithms Important To Crack Product-based Company Interviews?"
 publish: "Published on"
 published_time: "2023-04-05T13:25:31+05:30"
 modified_time: "2023-04-05T13:25:31+05:30"
