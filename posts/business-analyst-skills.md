@@ -1,6 +1,6 @@
 ---
 title: 10 Essential Skills To Become A Successful Business Analyst
-stitle: "10 Essential Skills To Become A Successful Business Analyst"
+stitle: "Essential Business Analyst Skills 2025 - Learnbay"
 publish: "Published on"
 published_time: "2023-05-29T13:25:31+05:30"
 modified_time: "2023-05-29T13:25:31+05:30"
@@ -28,7 +28,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "10 Essential Skills To Become A Successful Business Analyst"
+h1: "Must-Have Skills for Business Analysts"
 id: "business-analyst-skills"
 tableData:
   [

@@ -1,6 +1,6 @@
 ---
 title: "Top 5 Business Analytics Certifications to Boost Your Career"
-stitle: "Top 5 Business Analytics Certifications to Boost Your Career"
+stitle: "Leading Business Analytics Certifications - Learnbay"
 publish: "Published on"
 published_time: "2023-06-11T13:25:31+05:30"
 modified_time: "2023-06-11T13:25:31+05:30"
@@ -29,7 +29,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Top 5 Business Analytics Certifications to Boost Your Career"
+h1: "Best Business Analytics Certification Programs"
 id: "business-analytics-certifications"
 tableData:
   [
