@@ -18,15 +18,24 @@ export default function CategoryBlog({ categoryPosts }) {
   const showMoreItems = () => {
     setVisible((prevValue) => prevValue + 9);
   };
+  const firstPost =
+    categoryPosts && categoryPosts.length > 0 ? categoryPosts[0] : null;
 
   const cattitle = categoryPosts[0]?.cattitle || "";
   const catdesc = categoryPosts[0]?.catdesc || "";
+  const cath1 =
+    categoryPosts[0]?.h1 ||
+    (categoryPosts[0]?.category
+      ? `${categoryPosts[0].category} Courses and Articles`
+      : "Category Articles");
 
   return (
     <>
       <NextSeo
         title={`${cattitle}`}
         description={`${catdesc}`}
+        h1={`${cath1}`}
+
         // Add other SEO properties as needed
       />
 
@@ -59,6 +68,23 @@ export default function CategoryBlog({ categoryPosts }) {
       <br></br>
       <br></br>
       <br></br>
+      <section>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center", // centers horizontally
+            alignItems: "center", // centers vertically
+            height: "14vh", // adjust as needed for your page
+            textAlign: "center",
+            letterSpacing: "-1.5px",
+          }}
+        >
+          <h1 style={{ color: "black", margin: 0 }}>
+            {cath1 || `${categoryPosts[0]?.category} Courses and Articles`}
+          </h1>
+        </div>
+      </section>
+
       <section className={styles.blogWrap}>
         {categoryPosts
           .slice(0, visible)
@@ -66,6 +92,7 @@ export default function CategoryBlog({ categoryPosts }) {
             ({
               id,
               date,
+              h1,
               title,
               author,
               readTime,
