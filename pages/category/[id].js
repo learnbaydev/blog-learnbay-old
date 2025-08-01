@@ -77,6 +77,7 @@ export default function CategoryBlog({ categoryPosts }) {
             height: "14vh", // adjust as needed for your page
             textAlign: "center",
             letterSpacing: "-1.5px",
+            padding: "0 10px",
           }}
         >
           <h1 style={{ color: "black", margin: 0 }}>
