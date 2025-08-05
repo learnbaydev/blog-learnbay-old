@@ -26,7 +26,6 @@ export default function blog({ allPostsData }) {
           Learnbay Blogs - Latest Career Upskilling Trends and Learning
           Resources
         </title>
-
         <meta
           name="description"
           content="Stay Ahead with Learnbay Blogs on Upskilling Resources & IT Careers in AI, Data Science, Machine Learning & Full Stack Development For Learners & Professionals "
@@ -45,11 +44,9 @@ export default function blog({ allPostsData }) {
         <meta name="keywords" content="Learnbay Blogs" />
         <meta name="robots" content="index, follow" />
       </Head>
-      <div className={styles.BackP} style={{ marginTop: "70px" }}>
-        {/* <h4>
-        <b>Our Blogs</b>
-
-      </h4> */}
+      <div className={styles.BackP}>
+        {" "}
+        <h1>Learnbay Blog: Latest Insights in AI, Data Science & Technology</h1>
       </div>
       <section className={styles.blogHead}>
         <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

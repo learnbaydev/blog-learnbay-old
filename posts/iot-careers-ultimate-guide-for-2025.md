@@ -37,7 +37,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Trending Topics in Technology"
+h1: "Starting a Career in Internet of Things (IoT)"
 id: "iot-careers-ultimate-guide-for-2025"
 tableData: [Let's see some instances that we generally come across daily but are unaware of being IoT.,
 Necessary Skills for an IOT Engineer,

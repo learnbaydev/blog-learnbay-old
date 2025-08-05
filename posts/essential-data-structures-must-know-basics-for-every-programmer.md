@@ -29,7 +29,7 @@ vuploadDate: ""
 vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
-h1: "Data Structure Tutorials & Best Practices"
+h1: "Basic Data Structures Every Programmer Must Know"
 id: "essential-data-structures-must-know-basics-for-every-programmer"
 tableData: [List of the best data structures to master, 
 1. Array, 

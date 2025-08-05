@@ -291,6 +291,7 @@
   margin: auto;
   padding: 0px 100px;
   margin-top: 70px;
+  color: transparent;
 }
 
 .input {
@@ -392,6 +393,20 @@
     height: 50vh;
     text-align: left;
     padding: 20px;
+  }
+  .container {
+    display: flex;
+    justify-content: center; /* centers horizontally */
+    align-items: center; /* centers vertically */
+    /* height: 60vh;  */
+    text-align: center;
+  }
+
+  .categoryTitle {
+    color: red !important;
+    text-align: center;
+    justify-content: center; /* centers horizontally */
+    align-items: center; /* centers vertically */
   }
 
   .input {
