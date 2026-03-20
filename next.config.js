@@ -247,9 +247,9 @@ module.exports = {
       },
       {
         source:
-          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud",
-        destination:
           "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
+        destination:
+          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud-s-success",
         permanent: true,
       },
       {
