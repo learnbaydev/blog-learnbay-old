@@ -247,9 +247,9 @@ module.exports = {
       },
       {
         source:
-          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
+          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud",
         destination:
-          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud-s-success",
+          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
         permanent: true,
       },
       {
@@ -361,25 +361,12 @@ module.exports = {
           "/10-must-know-machine-learning-algorithms-for-beginners-in-2023",
         permanent: true,
       },
-
       {
         source: "/no-code-machine-learning-just-gone-viral-but-what's-that",
         destination:
           "/no-code-machine-learning-just-gone-viral-but-what-s-that",
         permanent: true,
       },
-
-      // {
-      //   source: "",
-      //   destination: "",
-      //   permanent: true,
-      // },
-
-      // {
-      //   source: "",
-      //   destination: "",
-      //   permanent: true,
-      // },
     ];
   },
   eslint: {
