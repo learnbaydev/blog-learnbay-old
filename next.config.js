@@ -383,6 +383,11 @@ module.exports = {
           "/master-s-programs-navigating-the-synergy-of-data-science-and-ai",
         permanent: true,
       },
+      {
+        source: "/influence-of-data-science-&-ai-in-banking-&-finance",
+        destination: "/influence-of-data-science-and-ai-in-banking-&-finance",
+        permanent: true,
+      },
     ];
   },
   eslint: {
