@@ -375,6 +375,14 @@ module.exports = {
           "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud-s-success",
         permanent: true,
       },
+
+      {
+        source:
+          "/master's-programs-navigating-the-synergy-of-data-science-and-ai",
+        destination:
+          " /master-s-programs-navigating-the-synergy-of-data-science-and-ai",
+        permanent: true,
+      },
     ];
   },
   eslint: {
