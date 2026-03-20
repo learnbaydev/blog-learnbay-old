@@ -245,13 +245,13 @@ module.exports = {
           "/transforming-data-into-actionable-insights-real-world-data-science-applications",
         permanent: true,
       },
-      {
-        source:
-          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud",
-        destination:
-          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
-        permanent: true,
-      },
+      // {
+      //   source:
+      //     "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud",
+      //   destination:
+      //     "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
+      //   permanent: true,
+      // },
       {
         source: "/category/-cloud-computing",
         destination: "/category/cloud-computing",
@@ -365,6 +365,14 @@ module.exports = {
         source: "/no-code-machine-learning-just-gone-viral-but-what's-that",
         destination:
           "/no-code-machine-learning-just-gone-viral-but-what-s-that",
+        permanent: true,
+      },
+
+      {
+        source:
+          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
+        destination:
+          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud-s-success",
         permanent: true,
       },
     ];
