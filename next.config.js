@@ -245,13 +245,13 @@ module.exports = {
           "/transforming-data-into-actionable-insights-real-world-data-science-applications",
         permanent: true,
       },
-      {
-        source:
-          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud",
-        destination:
-          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
-        permanent: true,
-      },
+      // {
+      //   source:
+      //     "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud",
+      //   destination:
+      //     "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
+      //   permanent: true,
+      // },
       {
         source: "/category/-cloud-computing",
         destination: "/category/cloud-computing",
@@ -338,29 +338,54 @@ module.exports = {
       {
         source:
           "/oops-why-2023-is-too-late-for-video-Based-data-science-learning",
-        destination: "/oops-why-2023-is-too-late-for-video-based-data-science-learning",
+        destination:
+          "/oops-why-2023-is-too-late-for-video-based-data-science-learning",
         permanent: true,
       },
       {
-        source:
-          "/full-stack-developer-langages",
+        source: "/full-stack-developer-langages",
         destination: "/full-stack-developer-languages",
         permanent: true,
       },
 
-
+      {
+        source: "/top-15-cloud-",
+        destination:
+          "/top-15-cloud-computing-challenging-issues-and-effective-solutions",
+        permanent: true,
+      },
 
       {
-        source:
-          "/top-15-cloud-",
-        destination: "/top-15-cloud-computing-challenging-issues-and-effective-solutions",
+        source: "/10-mu",
+        destination:
+          "/10-must-know-machine-learning-algorithms-for-beginners-in-2023",
+        permanent: true,
+      },
+      {
+        source: "/no-code-machine-learning-just-gone-viral-but-what's-that",
+        destination:
+          "/no-code-machine-learning-just-gone-viral-but-what-s-that",
         permanent: true,
       },
 
       {
         source:
-          "/10-mu",
-        destination: "/10-must-know-machine-learning-algorithms-for-beginners-in-2023",
+          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
+        destination:
+          "/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud-s-success",
+        permanent: true,
+      },
+
+      {
+        source:
+          "/master's-programs-navigating-the-synergy-of-data-science-and-ai",
+        destination:
+          "/master-s-programs-navigating-the-synergy-of-data-science-and-ai",
+        permanent: true,
+      },
+      {
+        source: "/influence-of-data-science-&-ai-in-banking-&-finance",
+        destination: "/influence-of-data-science-and-ai-in-banking-&-finance",
         permanent: true,
       },
     ];
