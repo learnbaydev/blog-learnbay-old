@@ -380,7 +380,7 @@ module.exports = {
         source:
           "/master's-programs-navigating-the-synergy-of-data-science-and-ai",
         destination:
-          " /master-s-programs-navigating-the-synergy-of-data-science-and-ai",
+          "/master-s-programs-navigating-the-synergy-of-data-science-and-ai",
         permanent: true,
       },
     ];
