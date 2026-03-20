@@ -363,8 +363,9 @@ module.exports = {
       },
 
       {
-        source: "/no-code-machine-learning-just-gone-viral-but-what-s-that.",
-        destination: "/no-code-machine-learning-just-gone-viral-but-whats-that",
+        source: "/no-code-machine-learning-just-gone-viral-but-what's-that",
+        destination:
+          "/no-code-machine-learning-just-gone-viral-but-what-s-that",
         permanent: true,
       },
 
