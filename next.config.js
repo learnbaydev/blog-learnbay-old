@@ -385,7 +385,7 @@ module.exports = {
       },
       {
         source: "/influence-of-data-science-&-ai-in-banking-&-finance",
-        destination: "/influence-of-data-science-and-ai-in-banking-&-finance",
+        destination: "/influence-of-data-science-and-ai-in-banking-and-finance",
         permanent: true,
       },
     ];
