@@ -178,7 +178,7 @@ x_train, x_test, y_train, y_test = train_test_split(x,y,test_size =0.5)
 
 ## Build the Decision Tree Model
 
-# Decision tree with depth = 2
+## Decision tree with depth = 2
 
 model_dt_2 = DecisionTreeClassifier(random_state=1, max_depth=2)
 
@@ -225,7 +225,7 @@ roc_auc_dt = auc(fpr_dt, tpr_dt)
 
 predictions = model_dt.predict(x_test)
 
-# Model Accuracy
+## Model Accuracy
 
 print (model_dt.score(x_test, y_test))
 
@@ -347,13 +347,13 @@ def prune_index(inner_tree, index, threshold):
 
 if inner_tree.value[index].min() &lt; threshold:
 
-# turn node into a leaf by "unlinking" its children
+## turn node into a leaf by "unlinking" its children
 
 inner_tree.children_left[index] = TREE_LEAF
 
 inner_tree.children_right[index] = TREE_LEAF
 
-# if there are shildren, visit them as well
+## if there are shildren, visit them as well
 
 if inner_tree.children_left[index] != TREE_LEAF:
 
@@ -363,7 +363,7 @@ prune_index(inner_tree, inner_tree.children_right[index], threshold)
 
 print(sum(model*dt.tree*.children_left &lt; 0))
 
-# start pruning from the root
+## start pruning from the root
 
 prune*index(model_dt.tree*, 0, 5)
 

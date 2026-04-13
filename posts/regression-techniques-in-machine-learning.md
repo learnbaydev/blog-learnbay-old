@@ -68,7 +68,7 @@ tableData:
   ]
 ---
 
-# Regression techniques in Machine Learning
+<!-- # Regression techniques in Machine Learning -->
 
 Machine learning has become the sexiest and very trendy technology in this world of technologies, Machine learning is used every day in our life such as Virtual assistance, for making future predictions, Videos surveillance, Social media services, spam mail detection, online customer support, search engine resulting prediction, fraud detection, recommendation systems, etc. In machine learning, Regression is the most important topic that needed to be learned. There are different types of Regression techniques in Machine Learning which we will know in this article.
 
