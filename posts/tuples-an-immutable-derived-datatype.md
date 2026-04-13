@@ -87,7 +87,7 @@ print(empty_tuple) <br>
 Output <br>
 ()
 
- <p>non-empty tuple</p>
+# <p>non-empty tuple</p>
 
 #one way of creating <br>
 tup = ('Data', 'Science') <br>
