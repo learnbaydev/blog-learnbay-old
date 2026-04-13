@@ -90,11 +90,11 @@ Yes, you heard it right. Only you need to own endless love and passion for techn
 
 If you love to play with codes or swim through the sea of data, below is the list of high-paying jobs you should get prepared for.
 
-# List of Best Paying Jobs in the Next 5 Years:-
+## List of Best Paying Jobs in the Next 5 Years:-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-2.jpg" style="width:100%" class="img" alt="A person operates an autonomous robotic brain that is linked to a display."/>
 
-## 1. MLOps engineer
+### 1. MLOps engineer
 
 Machine learning has proven to be a hot skill in the job market in the last 2 years. Now the ML engineer's roles are approaching the next-gen upgradation. MLOps engineers are now more in demand, and the demand seems to follow an exponential hike for the next 5 years. When it comes to the pay structure, no doubt it becomes one of the promising options within the list of highest-paying jobs.
 
@@ -108,7 +108,7 @@ The salary of MLOps engineers in India starts from 3.5 LPA INR (entry-level) to 
 
 The annual average salary is 7.5 LPA INR.
 
-## 2. Machine learning engineer
+### 2. Machine learning engineer
 
 As per the Linkedin Jobs data of November 2022, 2.2 lakh job vacancies are available worldwide. And the prediction is that by the end of 2023, the number of vacancies will reach 5 lakhs.
 
@@ -124,7 +124,7 @@ Even in India, the average salary of an ML engineer is INR 7.5 lakhs. With growi
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-3.jpg" style="width:100%" class="img" alt="An image titled, 'NLP.' The background shows a professional working on his laptop."/>
 
-## 3. Natural language processing data scientist (NLP data scientist)
+### 3. Natural language processing data scientist (NLP data scientist)
 
 The role of a data scientist is to "understand how to interpret, manipulate and translate human language" drawing computational linguistics and computer science. In addition, the NLP scientist has to close gaps between human communication and computer-based understanding.
 
@@ -132,7 +132,7 @@ The role of a data scientist is to "understand how to interpret, manipulate and 
 
 The average base salary can be 101,770 USD per year. Based on the year of experience in the I.T. field and level of expertise, even in India, one can earn 20 LPA INR. Hence it's clear that NLP scientist is one of the best-paying jobs.
 
-## 4. Database manager
+### 4. Database manager
 
 A database manager maintains and organizes a database that includes detecting and correcting issues, streamlining information, and reporting through public and private databases; such roles also seek the skill of developing and implementing organizational data models.
 
@@ -142,7 +142,7 @@ The average salary is 15 LPA INR. Even entry-level positions offer good packages
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-4.jpg" style="width:100%" class="img" alt="A data warehouse manager checks various data warehouse tasks on a tablet."/>
 
-## 5. Data warehouse manager
+### 5. Data warehouse manager
 
 The Data warehouse manager's responsibilities include checking the data storage facilities, data error reporting, securing data, and ensuring operational efficiency. Streamlining and supervising database management also fall under their responsibilities.
 
@@ -152,7 +152,7 @@ This role is best for data science aspirants who belong to inventory and operati
 
 The minimum salary of a data warehouse manager after having 2 years of experience in inventory and operations is 10 to 12 Lakhs per year in INR. The greater the experience, the higher will be the package.
 
-## 6. Database developer
+### 6. Database developer
 
 Database developers program and maintain databases. They also optimize hardware and software functions that keep it updated. The most challenging responsibility includes solving database problems in the minimal possible time.
 
@@ -160,7 +160,7 @@ Database developers program and maintain databases. They also optimize hardware 
 
 A skilled database developer may receive an average salary of 8 to 9 LPA INR as a fresher. So, this seems to be one of the best-paying career options.
 
-## 7. Database administrator
+### 7. Database administrator
 
 The database administrator has to build and manage the day-to-day operations of databases. Identification of end-user needs and, accordingly, data distribution is something that makes the database administrator's job so challenging. They must ensure that databases are accessible and secured for the right employees in need.
 
@@ -170,7 +170,7 @@ The salary of a database administrator can start from 5 LPA INR. While within 4 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-5.jpg" style="width:100%" class="img" alt="An image displays the logo of the cloud computation system."/>
 
-## 8. Cloud Data Engineers
+### 8. Cloud Data Engineers
 
 Cloud engineers work within the organization and must install, maintain, and troubleshoot network, server, and cloud computing systems. They must ensure that components are secured, updated, and monitored for any issues. Apart from that, such groups of engineers are also responsible for managing and monitoring data frames.
 
@@ -178,7 +178,7 @@ Cloud engineers work within the organization and must install, maintain, and tro
 
 The average salary of cloud data engineers is about INR 9 LPA. While based on experience and companies, the same can reach the 20+ LPA scale. In case you hold IT field and networking experience, I would suggest you target the cloud data engineer roles as high-paying jobs in 2023.
 
-## 9. Data Architect
+### 9. Data Architect
 
 A data architect has to review a company's data sources and design a system and structure to manage, compile, analyze and protect data. However, apart from this, a data architect needs to develop successful data strategies.
 
@@ -186,7 +186,7 @@ A data architect has to review a company's data sources and design a system and 
 
 Data architects usually need an I.T. background. This is one of the most explored highest paying jobs. One can earn ranging from 14 LPA to 42 LPA.
 
-## 10. Research scientist (Machine learning/Deep learning)
+### 10. Research scientist (Machine learning/Deep learning)
 
 Do you love academic jobs and technical inventions at the same time?
 
@@ -198,7 +198,7 @@ While the entry-level can help you to achieve a 5-6 LPA INR package, with 7+ yea
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-6.jpg" style="width:100%" class="img" alt="An AI engineer is seated in front of a table with an AI-powered robot. He holds a spherical object containing various circuits of AI and ML in his left hand."/>
 
-## 11. AI engineer
+### 11. AI engineer
 
 When it comes to the matter of the highest-paying career, the role of an AI engineer can't be ignored. The efficacy of developing and deploying AI models from scratch and helping product managers and stakeholders to understand the result determine the expertise of an AI engineer.
 
@@ -206,7 +206,7 @@ When it comes to the matter of the highest-paying career, the role of an AI engi
 
 At the beginning of the career, one can expect an average package of INR 8 LPA. With ongoing experience, which can go as high as INR 50 LPA.
 
-## 12. Big data engineer/architect
+### 12. Big data engineer/architect
 
 If you belong to the C.S./Stat/analytics field, 'big data engineer' would be the most promising among all the roles within the list of best-paying jobs. In fact, it is already in high demand and will retain the same for the next 15 to 20 years at least.
 
@@ -214,7 +214,7 @@ If you belong to the C.S./Stat/analytics field, 'big data engineer' would be the
 
 For 1 to 4 years of experience as a big data engineer, one can expect an average package of 7 LPA INR. Based on your efficacy, within 7 years, you can also land on a package of 21 LPA INR.
 
-## 13. Computer vision engineer
+### 13. Computer vision engineer
 
 Although this particular role is not that much exposed, in the next 2 to 3 years, it will be the most hyped highest paying job. In case you are interested in <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">advanced AI and ML</a>, then this role can offer you ever-ending growth and extremely fast hikes.
 
@@ -224,7 +224,7 @@ The average salary is 8 LPA INR approx. From entry to mid-expert level, the same
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-7.jpg" style="width:100%" class="img" alt="An image titled, 'AI.' The background shows a robotics engineer working on a tablet."/>
 
-## 14. Robotics engineer
+### 14. Robotics engineer
 
 As robotic equipment is getting affordable now and different business industries like (eCommerce, medicine, etc.,) are adopting robotic technology so quickly, the demands of robotic engineers are kissing the sky. The core focus of such engineers lies in designing, developing, and deploying different robotic systems.
 
@@ -232,7 +232,7 @@ As robotic equipment is getting affordable now and different business industries
 
 In India, this role is still being explored. But the demand is quite high overseas. Robotics engineers can gain a salary of $100,640 p.a. In India, starting from the internship level to mid-level, a robotics engineer earns from 3 LPA to 8 LPA in INR.
 
-## 15. Data scientist
+### 15. Data scientist
 
 A data scientist has to collect, interpret and analyze data sets. Apart from that, he needs an extraordinary problem-solving mind.
 
@@ -240,7 +240,7 @@ A data scientist has to collect, interpret and analyze data sets. Apart from tha
 
 The average salary is about 10.2 LPA INR. With adequate expertise level, one can earn even 50+ LPA.
 
-## 16. Algorithm engineer
+### 16. Algorithm engineer
 
 An algorithm engineer improves AI applications for clients and employers, identifying patterns or problems in data sets.
 
@@ -250,7 +250,7 @@ The average algorithm engineer salary is INR 24,75,000 per annum, and basic star
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-8.jpg" style="width:100%" class="img" alt="An illustration of a desktop display with text formatting, settings, and other symbols, which indicates system design."/>
 
-## 17. System design engineer
+### 17. System design engineer
 
 System design engineers research, develop and design ideas for new products. They are even responsible for the customization of products or processes that are already existing. System design engineers have to deliver products with new designs and enhance efficiency improving performance.
 
@@ -258,7 +258,7 @@ System design engineers research, develop and design ideas for new products. The
 
 The average salary of a system design engineer is INR 7,00,000 per year and can reach INR 19,15,000 per year.
 
-## 18. Full-stack developer
+### 18. Full-stack developer
 
 Full-stack developers can be software and web developers, or engineers working with both the front and back end of the website or application. At this point, I will discuss the software developers. They offer an end-to-end service involving database projects and website user-side development.
 
@@ -268,7 +268,7 @@ The average salary of a full-stack developer is INR 6.5 LPA, which can easily re
 
 For the past 2 years, being a full-stack developer has been the most demanding and highest-paying career.
 
-## 19. Full-stack engineer
+### 19. Full-stack engineer
 
 A full-stack engineer is a high-level software engineer who works on designing, testing, and implementing various software applications. They create software applications, scalable web services, and mentor coding teams.
 
@@ -278,7 +278,7 @@ The salary range for this role is INR 4 LPA to 23 LPA, and with 5 to 6 years of 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-9.jpg" style="width:100%" class="img" alt="A full-stack developer seated in front of a display runs full-stack code."/>
 
-## 20. Full-stack web developer
+### 20. Full-stack web developer
 
 Full-stack web developers work on both frontend and backend development processes. They design, develop and maintain a full-fledged functioning of platforms with databases and servers. The servers do not need any other 3rd party application to build an entire system from scratch.
 
@@ -286,7 +286,7 @@ Full-stack web developers work on both frontend and backend development processe
 
 The average full-stack web developer salary is INR 5 LPA for 1 to 3 years of experience.
 
-## 21. AI researcher
+### 21. AI researcher
 
 AI researchers manage and create product infrastructure and AI development projects. Working on the further scopes of machine learning algorithms helps AI researchers omit flaws in existing machine learning models. They also build AI models from scratch.
 
@@ -294,7 +294,7 @@ AI researchers manage and create product infrastructure and AI development proje
 
 AI researcher's salary in India ranges from 3 LPA INR to 12 LPA INR.
 
-## 22. Senior data scientist
+### 22. Senior data scientist
 
 A senior data scientist is responsible for utilizing data and providing business solutions for shaping the enterprise's strategies and product development. Other than the standard data analysis work, senior data analyst also works in developing <a href="https://blog.learnbay.co/model-vs-algorithm-in-ml" target="_blank">machine learning models</a>. They even have to collect resources needed so the junior data scientist can perform exploratory data analysis for building ML models.
 
@@ -304,7 +304,7 @@ The salary of a senior data scientist starts from approx 21 LPA INR.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-10.jpg" style="width:100%" class="img" alt="A background image titled 'data analyst' shows professionals busy with analytics via graphs and pie charts."/>
 
-## 23. Data analyst
+### 23. Data analyst
 
 Data analysts synthesize, analyze and make recommendations for companies with large amounts of data. A data analyst can work in industries like IT, healthcare, sports, and finance to improve processes, reduce costs, and identify <a href="https://blog.learnbay.co/know-the-top-10-data-science-trends-2022" target="_blank">data science trends</a> (for marketing/sales/operations, etc.) to improve efficiency.
 
@@ -312,7 +312,7 @@ Data analysts synthesize, analyze and make recommendations for companies with la
 
 The average data analyst salary for entry-level positions is 5 LPA INR. Professionals with no tech background can also consider this as one of the best-paying careers.
 
-## 24. Data modeler
+### 24. Data modeler
 
 A data modeler analyzes business trends and predicts future behavior through analytics and statistics. They create unique models and predictive systems for organizations and report analysis to the board leaders.
 
@@ -320,7 +320,7 @@ A data modeler analyzes business trends and predicts future behavior through ana
 
 The salary of a data modeler lies between 8.3 LPA INR to 28 LPA INR. Although the openings are still low, this is one of the highest-paying jobs.
 
-## 25. Enterprise Architect
+### 25. Enterprise Architect
 
 An enterprise architect improves the goals and processes of the organization by creating system architecture meeting company technological data sets.
 
@@ -328,7 +328,7 @@ An enterprise architect improves the goals and processes of the organization by 
 
 Enterprise architects can earn from 20 LPA to 93 LPA INR based on experience. But the openings are quite lesser than other highest-paying job roles.
 
-## 26. MEAN stack developer
+### 26. MEAN stack developer
 
 MEAN stack developers are JavaScript experts in 4 technologies comprising MEAN stack - MongoDB, ExpressJS, AngularJS, and NodeJS. MEAN stack developers are web developers. MEAN stack developer works on the front end and back end, integrating API and forming work structures in today's progressive approaches like DevOps and Agile.
 
@@ -338,7 +338,7 @@ The average salary of a MEAN stack developer is 7 LPA INR.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-11.jpg" style="width:100%" class="img" alt="An image is titled 'MERN.' The background shows a MERN stack developer busy working on a laptop."/>
 
-## 27. MERN stack developer
+### 27. MERN stack developer
 
 MERN stack is a collection of technologies enabling swift application development. It is utilized by developers worldwide. MERN stack is mostly used to develop apps by JavaScript. It is because the 4 technologies utilized for the technology stack are JS-based.
 
@@ -346,7 +346,7 @@ MERN stack is a collection of technologies enabling swift application developmen
 
 The average annual salary in India for a MERN stack developer is 4.2 LPA INR.
 
-## 28. Principal data scientist
+### 28. Principal data scientist
 
 If you are already in the data science field for 8+ years, for transitioning your career from any managerial role into data science, the 'principal data scientist' role will be the best fit for you. You can opt for <a href="https://www.learnbay.co/data-science-ai-for-managers" target="_blank">data science and AI courses for managers and leaders</a> to get into such a high-salary role.
 
@@ -354,7 +354,7 @@ If you are already in the data science field for 8+ years, for transitioning you
 
 The average salary is 38 LPA INR **.** The salary ranges from 25 LPA to 98 LPA.
 
-## 29. Senior R & D Engineer
+### 29. Senior R & D Engineer
 
 **You can apply for this best-paying job role if you are a** <a href="https://blog.learnbay.co/why-you-need-data-structures-and-algorithms-training" target="_blank">data structure</a> and algorithms expert. Senior R&D engineers apply their DSA expertise to help programmers optimize computer programs.
 
@@ -362,7 +362,7 @@ The average salary is 38 LPA INR **.** The salary ranges from 25 LPA to 98 LPA.
 
 The average salary is 22.7 LPA INR.
 
-## 30. Data Engineer
+### 30. Data Engineer
 
 Data engineers build systems that collect, manage and convert raw data into usable information for data scientists and business analysts to interpret. The goal is to make data accessible for organizations to evaluate and optimize their performance.
 

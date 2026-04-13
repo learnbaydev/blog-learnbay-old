@@ -65,7 +65,7 @@ These are the few books that are worth reading whenever you can. It is a great v
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-2.jpg" alt="The logo of cloud computing, surrounded by clouds." style="width:100%" class="img"/>
 
-# <a href="https://www.amazon.in/Cloud-Computing-ISSN-Book-120-ebook/dp/B08T79CMRS" target="_blank">1. AI For Cloud Computing</a>
+## <a href="https://www.amazon.in/Cloud-Computing-ISSN-Book-120-ebook/dp/B08T79CMRS" target="_blank">1. AI For Cloud Computing</a>
 
 This **AI book** for cloud computing is an updated volume of Advancements in computer series. It has interesting chapters like
 
@@ -80,7 +80,7 @@ This **book on AI** for Cloud computing has insights from lead experts in the AI
 
 **Price:** Approx. 11000 INR (Kindle)
 
-# <a href="https://www.amazon.in/Artificial-Intelligence-Communications-Networks-Telecommunications-ebook/dp/B08X116VHM" target="_blank">2. Artificial Intelligence for Communications and Networks:-</a>
+## <a href="https://www.amazon.in/Artificial-Intelligence-Communications-Networks-Telecommunications-ebook/dp/B08X116VHM" target="_blank">2. Artificial Intelligence for Communications and Networks:-</a>
 
 AICON (Artificial Intelligence for communication and network). It is the 2nd global conference for the telecommunications network. This book is all about AI in Telecommunications and networks. It has 112 submissions and 52 full papers that were selected for publishing. This **AI book** for Telecommunication networks has subjects like
 
@@ -97,7 +97,7 @@ AICON (Artificial Intelligence for communication and network). It is the 2nd glo
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-3.jpg" alt="Two concentric circles with the text 'Block chain' in he center." style="width:100%" class="img"/>
 
-# <a href="https://link.springer.com/book/10.1007/978-3-030-29761-9" target="_blank">3. Blockchain - Artificial Intelligence and Financial Services</a>
+## <a href="https://link.springer.com/book/10.1007/978-3-030-29761-9" target="_blank">3. Blockchain - Artificial Intelligence and Financial Services</a>
 
 Blockchain and AI power have transformed accounting and financial businesses. This AI ebook tells how AI applications can help operations in the banking and finance industry. It is an unbiased book written in a conversational method. It replaces jargon of technical details with real-time world case examples. The key focus of the author lies on
 
@@ -109,7 +109,7 @@ Blockchain and AI power have transformed accounting and financial businesses. Th
 
 **Price:** Approx. 43 EUR (Springer Link)
 
-# <a href="https://www.amazon.com/Artificial-Intelligence-Healthcare-Suresh-Mahajan/dp/9353516838/ref=pd_sbs_14_3/143-7426564-6509509?_encoding=UTF8&pd_rd_i=9353516838&pd_rd_r=e4c55cc0-c479-4f21-8f2d-cd8bcb3f91aa&pd_rd_w=2utbZ&pd_rd_wg=gyPna&pf_rd_p=5873ae95-9063-4a23-9b7e-eafa738c2269&pf_rd_r=VGFBC2K40CRCXD3TNSVT&psc=1&refRID=VGFBC2K40CRCXD3TNSVT" target="_blank">4. Artificial Intelligence in Healthcare - 2nd edition</a>
+## <a href="https://www.amazon.com/Artificial-Intelligence-Healthcare-Suresh-Mahajan/dp/9353516838/ref=pd_sbs_14_3/143-7426564-6509509?_encoding=UTF8&pd_rd_i=9353516838&pd_rd_r=e4c55cc0-c479-4f21-8f2d-cd8bcb3f91aa&pd_rd_w=2utbZ&pd_rd_wg=gyPna&pf_rd_p=5873ae95-9063-4a23-9b7e-eafa738c2269&pf_rd_r=VGFBC2K40CRCXD3TNSVT&psc=1&refRID=VGFBC2K40CRCXD3TNSVT" target="_blank">4. Artificial Intelligence in Healthcare - 2nd edition</a>
 
 Suppose you want to understand the relationship between AI and healthcare and how it improves healthcare. AI has revolutionized every minute aspect of healthcare. This book talks about the present and future AI applications in healthcare and the principles of AI in the same. It even shares the vital role of AI in medical specialties and health insurance and also the role of start-ups and MNCs’ contribution to AI in healthcare. You can search for many interesting and trending topics like:
 
@@ -126,7 +126,7 @@ Suppose you want to understand the relationship between AI and healthcare and ho
 
 **Price:** Approx. $5 USD (Kindle)
 
-# <a href="https://www.amazon.com/AI-Powered-Commerce-Building-products-Commerce-AI/dp/180324898X" target="_blank">5. AI-Powered Commerce</a>
+## <a href="https://www.amazon.com/AI-Powered-Commerce-Building-products-Commerce-AI/dp/180324898X" target="_blank">5. AI-Powered Commerce</a>
 
 AI and its tools are trained to trillion data points to help businesses create next-gen products and services for consumers. In this **AI book,**
 
@@ -145,7 +145,7 @@ So by the end of this book on AI for commerce, you will know how to strategize p
 
 **Price:** Approx. $11 USD (Kindle)
 
-# <a href="https://www.amazon.in/Machine-Learning-Data-Science-Industry-ebook/dp/B08YD8T6XT" target="_blank">6. AI - ML and DS for Oil and Gas Operations</a>
+## <a href="https://www.amazon.in/Machine-Learning-Data-Science-Industry-ebook/dp/B08YD8T6XT" target="_blank">6. AI - ML and DS for Oil and Gas Operations</a>
 
 Petroleum employers and engineers can learn how to uplift oil and gas operations. Practically this book on AI explains every aspect of many case studies with the topics such as
 
@@ -165,7 +165,7 @@ It showcases how oil and gas operations can be optimized by machine learning and
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-4.jpg" alt="An illustration representing the the application of AI in marketing." style="width:100%" class="img"/>
 
-# <a href="https://www.amazon.in/Marketing-Canvas-Five-Stage-Implementing-Intelligence/dp/150361316X/ref=asc_df_150361316X/?tag=googleshopdes-21&linkCode=df0&hvadid=406231090213&hvpos=&hvnetw=g&hvrand=17557680569748338503&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062008&hvtargid=pla-1174827132426&psc=1&ext_vrnc=hi" target="_blank">7. The AI Marketing Canvas</a>
+## <a href="https://www.amazon.in/Marketing-Canvas-Five-Stage-Implementing-Intelligence/dp/150361316X/ref=asc_df_150361316X/?tag=googleshopdes-21&linkCode=df0&hvadid=406231090213&hvpos=&hvnetw=g&hvrand=17557680569748338503&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062008&hvtargid=pla-1174827132426&psc=1&ext_vrnc=hi" target="_blank">7. The AI Marketing Canvas</a>
 
 This Book on AI provides a direct, actionable plan for different marketing tasks. CMOS can jot down the initiatives that are in sequence and is designed for successful marketing wherever they are in the marketing process. The authors of this book talk about questions like
 
@@ -178,7 +178,7 @@ The first few chapters offer marketing leaders about _ **what AI is and how diff
 
 **Price:** Approx. 1500 INR (Kindle)
 
-# <a href="https://www.amazon.com/dp/9811674973?tag=uuid10-20" target="_blank" rel="nofollow">8. AI and IoT For Smart City Applications</a>
+## <a href="https://www.amazon.com/dp/9811674973?tag=uuid10-20" target="_blank" rel="nofollow">8. AI and IoT For Smart City Applications</a>
 
 This book on AI talks about the research of the ecosystem for developing smart cities by AI and IoT. The technical research in this book has topics related to
 
