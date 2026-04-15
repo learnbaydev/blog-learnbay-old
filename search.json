@@ -2015,20 +2015,7 @@
       "draft": false
     }
   },
-  {
-    "slug": "8-most-demanded-data-science-tools-in-2023",
-    "frontmatter": {
-      "title": "8 Most Demanded Data Science Tools in 2023",
-      "slug": "8-most-demanded-data-science-tools-in-2023",
-      "description": "Data science tools are very reliable and practical in today's tech world. In this blog, we will learn about various data science tools and their features which will undoubtedly assist in career advancement in the data science sector.",
-      "categories": "Data Science",
-      "author": "Manas Kochar",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mdds-1.jpg",
-      "readTime": "8-9 mins",
-      "date": "Mar 27, 2023",
-      "draft": false
-    }
-  },
+
   {
     "slug": "how-do-google-algorithms-identify-ai-generated-content",
     "frontmatter": {
@@ -2615,19 +2602,7 @@
       "draft": false
     }
   },
-  {
-    "slug": "how-to-choose-the-right-data-science-program-for-your-career-goals",
-    "frontmatter": {
-      "title": "How to Choose the Right Data Science Program for Your Career goals    ",
-      "slug": "how-to-choose-the-right-data-science-program-for-your-career-goals",
-      "description": "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning.",
-      "author": "Manas Kochar",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dscg-1.png",
-      "readTime": "6-5 mins",
-      "date": "Jul 20, 2023",
-      "draft": false
-    }
-  },
+
   {
     "slug": "the-essential-skills-every-data-analyst-needs",
     "frontmatter": {
@@ -3287,20 +3262,6 @@
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gemini_banner.png",
       "readTime": " 5 mins",
       "date": "Apr 23, 2024",
-      "draft": false
-    }
-  },
-  {
-    "slug": "top-courses-in-ai-cybersecurity-data-science-ml",
-    "frontmatter": {
-      "title": "Top Courses to Master: AI, Cybersecurity, Data Science, Machine Learning      ",
-      "slug": "top-courses-in-ai-cybersecurity-data-science-ml",
-      "description": "Discover essential courses in AI, cybersecurity, data science, and machine learning to advance your skills and career.",
-      "categories": "Data Science",
-      "author": "Sonalisha Mohanty",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-course-banner.png",
-      "readTime": " 5.5 mins",
-      "date": "May 13, 2024",
       "draft": false
     }
   },

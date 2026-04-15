@@ -317,11 +317,7 @@ module.exports = {
           "/ai-in-automotive-industry-maneuvering-the-automobile-sector",
         permanent: true,
       },
-      {
-        source: "/8-most-demanded-data-science-tools-in-2023",
-        destination: "/8-most-demanded-data-science-tools",
-        permanent: true,
-      },
+
       {
         source:
           "/learnbay-top-2023-data-science-courses-for-career-advancement-and-success",

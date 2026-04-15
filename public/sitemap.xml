@@ -184,12 +184,7 @@
 <changefreq>daily</changefreq>
 <priority>0.80</priority>
 </url>
-<url>
-<loc>https://blog.learnbay.co/8-most-demanded-data-science-tools-in-2023</loc>
-<lastmod>2023-05-05</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.80</priority>
-</url>
+
 <url>
 <loc>https://blog.learnbay.co/how-to-increase-the-accuracy-of-machine-learning-model-over-90</loc>
 <lastmod>2023-05-05</lastmod>
@@ -891,12 +886,7 @@
 <priority>0.90</priority> 
 </url>
 
-<url>
-<loc>https://blog.learnbay.co/how-to-choose-the-right-data-science-program-for-your-career-goals</loc>
-<lastmod>2023-07-20</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.90</priority> 
-</url>
+
 
 <url>
 <loc>https://blog.learnbay.co/the-essential-skills-every-data-analyst-needs</loc>
@@ -1221,14 +1211,6 @@
   <changefreq>daily</changefreq>
 <priority>0.90</priority> 
 </url>
-
-<url>
-  <loc>https://blog.learnbay.co/top-courses-in-ai-cybersecurity-data-science-ml</loc>
-  <lastmod>2024-05-13</lastmod>
-  <changefreq>daily</changefreq>
-<priority>0.90</priority> 
-</url>
-
 
 
 <url>
