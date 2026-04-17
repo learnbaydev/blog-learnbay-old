@@ -7,7 +7,7 @@ modified_time: "2023-08-10T13:25:31+05:30"
 desc: "Start with data structures before tackling algorithms. A solid understanding of data structures lays the foundation for efficient algorithm design and problem-solving in computer science."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-structures-1.png"
-headerAlt: " data structures and algorithms courses, DSA courses online, DSA course"
+headerAlt: "Learnbay blog banner of data structures or algorithms: what to learn first?"
 date: "Aug 10, 2023"
 tag: [dsa course online, data structures and algorithms courses, dsa program]
 

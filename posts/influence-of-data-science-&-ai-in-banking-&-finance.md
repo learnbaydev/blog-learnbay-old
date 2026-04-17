@@ -7,7 +7,7 @@ modified_time: "2024-11-07T13:25:31+05:30"
 desc: "The growing impact of data science and AI in banking and finance. Stay ahead with insights into key trends and advancements shaping the industry."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fin-tech-banner-min.png"
-headerAlt: "A banner image titled,  'The Rising Influence of Data Science and AI in Banking & Finance' shows a bank and coin logo"
+headerAlt: "Learnbay blog banner of the rising influence of data science and AI in banking and finance."
 date: "Nov 10, 2024"
 tag:
   [

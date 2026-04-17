@@ -7,7 +7,7 @@ modified_time: "2024-03-12T13:25:31+05:30"
 desc: "Explore cutting-edge machine learning projects to enhance your skills in 2024. Stay ahead of the curve with these trending projects designed to elevate your skills"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bitcoin-banner.png"
-headerAlt: "A banner image titled, Trending Machine Learning Projects to Elevate Your Skills in 2024' show a humanoid brain in centre."
+headerAlt: "Learnbay blog banner of trending machine learning projects to elevate your skills in 2024"
 date: "Mar 12, 2024"
 tag:
   [

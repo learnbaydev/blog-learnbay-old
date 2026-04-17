@@ -7,7 +7,7 @@ modified_time: "2022-05-07T13:25:31+05:30"
 desc: "Data analytics in supply chain has grown in popularity as it has proven to be extremely effective in the fields of retail and E-Commerce."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce1.png"
-headerAlt: "An image titled, '2,00,000 JOBS WERE LAID OFF IN RETAIL SECTOR DUE TO THE 2020 PANDEMIC SAYS,MONEY CONTROL'. The image also shows a downward trend and a shopping kart logo."
+headerAlt: "Learnbay blog banner of 2,00,000 jobs were laid off in retail sector due to the 2020 pandemic says, money control."
 date: "May 7, 2022"
 updatedOn: true
 tag:

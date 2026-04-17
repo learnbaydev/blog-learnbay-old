@@ -8,7 +8,7 @@ modified_time: "2023-09-20T13:25:31+05:30"
 desc: " Explore how algorithms and data structures revolutionize global sectors. Discover their impact on industries, from healthcare to finance, shaping the future of technology and innovation."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20dsa.webp"
-headerAlt: "data structures and algorithms course online, online data structures and algorithms course"
+headerAlt: "Learnbay blog banner of transforming global sectors: Your Impact with Data Structures & Algorithms."
 date: "Sep 20, 2023"
 tag: [data structures course, dsa courses]
 category: "Full Stack"

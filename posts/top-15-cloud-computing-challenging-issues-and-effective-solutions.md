@@ -7,7 +7,7 @@ modified_time: "2024-03-14T13:25:31+05:30"
 desc: "Uncover solutions for the top 15 cloud computing challenges with our expert insights. Enhance efficiency and overcome hurdles in your cloud operations effortlessly."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cd-banner.png"
-headerAlt: "Cloud Computing Challenging with Solutions"
+headerAlt: "Learnbay blog banner of top 15 cloud computing challenging issues and effective solutions."
 date: "Mar 14, 2024"
 tag:
   [

@@ -7,7 +7,7 @@ modified_time: "2023-19-10T13:25:31+05:30"
 desc: "Unlock career potential with a Master's in AI. Learn key benefits, career opportunities, and industry demands for advanced AI expertise at Learnbay."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/imgblog.png"
-headerAlt: "A banner image titled, 'Reasons to Dive into a Master's Journey in Artificial Intelligence' show a humanoid brain."
+headerAlt: "Learnbay blog banner of reasons to dive into a masters journey in artificial intelligence."
 date: "Sep 20, 2024"
 tag:
   [master's in artificial intelligence, master's in artificial intelligence online, Master's in Artificial Intelligence and Data Science, master's in AI, master's degree in artificial intelligence]
