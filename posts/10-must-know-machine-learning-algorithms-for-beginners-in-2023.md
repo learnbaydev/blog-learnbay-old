@@ -214,7 +214,7 @@ A Naive Bayesian model that can outperform more complex models is straightforwar
 
 The Naive Bayesian model works on a simple formula, i.e.,
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-04.png" style="width:100%" class="img">
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-04.png" alt="Learnbay blog banner of the role of automated deep learning algorithm for reliable screening of chest radograph." style="width:100%" class="img">
 
 **Where,**
 
