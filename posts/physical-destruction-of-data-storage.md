@@ -7,7 +7,7 @@ modified_time: "2024-04-15T13:25:31+05:30"
 desc: "Explore essential factors for securely destroying data storage. Ensure your sensitive information remains safe and secure. Read our latest blog now."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data_store_banner.png"
-headerAlt: "Learnbay blog banner of physical destruction of data storage: an important thigs to consider."
+headerAlt: "Learnbay blog banner of physical destruction of data storage- an important thing to consider."
 date: "Apr 15, 2024"
 tag:
   [
