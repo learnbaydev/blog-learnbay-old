@@ -7,7 +7,7 @@ modified_time: "2024-03-06T13:25:31+05:30"
 desc: "Stay informed on the latest DevOps advancements for 2024. Discover key trends shaping the industry's future and prepare to innovate with confidence."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/devops_trends-banner.png"
-headerAlt: "A banner image titled 'Key DevOps Trends & Innovations to Watch in 2024' shows how cloud computing is used in various contexts."
+headerAlt: "Learnbay blog banner of key devops trends and innovations to watch."
 date: "Mar 06, 2024"
 tag:
   [

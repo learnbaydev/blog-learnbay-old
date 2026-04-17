@@ -7,7 +7,7 @@ modified_time: "2024-11-18T13:25:31+05:30"
 desc: " Learn how automated deep learning algorithms enhance chest radiograph screening reliability, revolutionising medical imaging interpretation. Read our blog."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/04.png"
-headerAlt: " Automated deep learning in chest radiograph screening."
+headerAlt: "Learnbay blog banner of the role of automated deep learning algorithm for reliable screening of chest radograph."
 date: "Nov 18, 2024"
 tag:
   [

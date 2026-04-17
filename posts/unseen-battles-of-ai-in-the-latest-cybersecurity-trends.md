@@ -7,7 +7,7 @@ modified_time: "2024-04-02T13:25:31+05:30"
 desc: " Explore the forefront of cybersecurity with AI's unseen battles. Discover the latest trends shaping the cyber world. Stay ahead in digital defence. Read our blog!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cyber-world-banner.png"
-headerAlt: "Cybersecurity trends in 2024"
+headerAlt: "Learnbay blog banner of sentinels of the cyber world Al's unseen Battles in the latest cybersecurity trends."
 date: "Apr 02, 2024"
 tag:
   [

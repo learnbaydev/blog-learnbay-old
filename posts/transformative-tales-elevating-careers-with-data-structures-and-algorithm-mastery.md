@@ -7,7 +7,7 @@ modified_time: "2024-01-03T13:25:31+05:30"
 desc: "Explore inspiring real-life success stories where proficiency in data structures and algorithms played a pivotal role, unlocking career opportunities and propelling individuals to achieve remarkable professional milestones."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Real-Life-banner.png"
-headerAlt: "Data Structures and Algorithms, data structure and algorithms course, best data structures and algorithms courses"
+headerAlt: "Learnbay blog banner of transformative tales- elevating careers with data structures and algorithm mastery."
 date: "Jan 03, 2024"
 tag:
   [

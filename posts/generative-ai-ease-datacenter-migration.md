@@ -7,7 +7,7 @@ modified_time: "2023-16-10T13:25:31+05:30"
 desc: "Learn how generative AI simplifies data center migration, enhancing efficiency and scalability. Explore the latest trends in AI-driven solutions. Read our blog."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/01.png"
-headerAlt: "A banner image titled, 'The Uptrend of Generative AI To Ease Massive Data Center Migration' shows a cloud networking system. "
+headerAlt: "Learnbay blog banner of the uptrend of generative AI to ease data center migration."
 date: "Sep 16, 2024"
 tag:
   [data center transformation, AI-driven data center transformation, Data Center Migration]

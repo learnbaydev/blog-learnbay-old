@@ -7,7 +7,7 @@ modified_time: "2023-08-23T13:25:31+05:30"
 desc: "Enhance your programming skills with our comprehensive data structures course. Learn essential DSA concepts to excel in coding and problem-solving. Enroll now!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/datastructure.webp"
-headerAlt: "dsa course, data structures and algorithms course, DSA Course Program"
+headerAlt: "Learnbay blog banner of  essential data structures: must-know basics for every programmer."
 date: "Aug 23, 2023"
 tag: [data structures course, dsa programs, dsa courses]
 category: "Data Structure"

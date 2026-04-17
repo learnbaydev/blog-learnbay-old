@@ -7,7 +7,7 @@ modified_time: "2024-24-10T13:25:31+05:30"
 desc: "Explore the landscape of IoT careers in 2025 with our comprehensive guide. Unlock thriving opportunities and chart your path to success in the dynamic world of Internet of Things."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nov_11.png"
-headerAlt: "A banner image titled, 'Reasons to Dive into a Master's Journey in Artificial Intelligence' show a humanoid brain."
+headerAlt: "Learnbay blog banner of IoT careers your ultimate guide to thriving opportunities."
 date: "Sep 24, 2024"
 tag:
   [

@@ -7,7 +7,7 @@ modified_time: "2024-04-23T13:25:31+05:30"
 desc: "Explore the digital rivalry between ChatGPT and Google Gemini. Discover the strengths and differences of each AI tool to determine which is better for you."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gemini_banner.png"
-headerAlt: "Comparison between ChatGPT and Google Gemini "
+headerAlt: "Learnbay blog banner of  overview of ChatGPT and Gemini."
 date: "Apr 23, 2024"
 tag:
   [

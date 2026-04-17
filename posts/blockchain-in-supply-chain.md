@@ -7,7 +7,7 @@ modified_time: "2023-04-19T13:25:31+05:30"
 desc: "Learn the advantage of blockchain technology in the supply chain industry. Know the implications of this cutting-edge technology on supply chain and logistics management."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bis-1.jpg"
-headerAlt: "An illustration, 'Future of Blockchain in supply chain: Know the 6 proven benefits' shows a professional using the technology with building blocks to manage operations."
+headerAlt: "Learnbay blog banner of future of blockchain in supply chain: know the 6 proven benefits."
 date: "Apr 19, 2023"
 tag:
   [

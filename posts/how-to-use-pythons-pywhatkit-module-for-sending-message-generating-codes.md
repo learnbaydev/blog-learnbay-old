@@ -7,7 +7,7 @@ modified_time: "2023-02-10T13:25:31+05:30"
 desc: "We have seen various implications of the python programming language. And Python's Pywhatkit module seems to prove a powerful tool for sending message-generating codes. In this blog, you will learn how to configure and run the Pywhatkit module for sending an auto-generated message."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/htup-1.jpg"
-headerAlt: "An image titled, 'How to Use Python's Pywhatkit Module for sending Messages-Generating codes?' shows a Python-based AI bot and a person looking at the WhatsApp logo."
+headerAlt: "Learnbay blog banner of how to use python's Pywhatkit module for sending message-generating codes?"
 date: "Feb 10, 2023"
 tag:
   [
