@@ -105,7 +105,7 @@ export default function blog({ allPostsData }) {
       {[...categoryPostTag].map((post, i) => {
         let tag = post;
         const categoryPosts = allPostsData.filter(
-          (post) => post.category === tag
+          (post) => post.category === tag,
         );
         let makeUrl = post.toLowerCase().replace(/\s+/g, "-");
         let url = `/category/${makeUrl}`;
@@ -152,7 +152,7 @@ export default function blog({ allPostsData }) {
                                 src={headerImg}
                                 width="300"
                                 height="180"
-                                alt={categoryPosts.id}
+                                alt={`Blog on ${title}`}
                                 layout="intrinsic"
                                 className={styles.categoryPostImg}
                               />
@@ -195,7 +195,7 @@ export default function blog({ allPostsData }) {
                           </div>
                         </Link>
                       );
-                    }
+                    },
                   )}
               </div>
               <div className={styles.categoryPostRightSide}>
@@ -228,7 +228,7 @@ export default function blog({ allPostsData }) {
                                 src={headerImg}
                                 width="400"
                                 height="190"
-                                alt={categoryPosts.id}
+                                alt={`Blog on ${title}`}
                                 layout="intrinsic"
                                 className={styles.categoryPostImg}
                               />
@@ -273,7 +273,7 @@ export default function blog({ allPostsData }) {
                           </div>
                         </Link>
                       );
-                    }
+                    },
                   )}
               </div>
             </div>
