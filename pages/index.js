@@ -58,49 +58,62 @@ export default function blog({ allPostsData }) {
       <section className={styles.blogWrap}>
         {allPostsData
           .slice(0, 3)
-          .map(({ id, date, title, author, readTime, headerImg }) => {
-            const url = `/${id}`;
-            let makeUrl = author.toLowerCase().replace(/\s+/g, "-");
-            let aurl = `/author/${makeUrl}`;
-            return (
-              <div key={id}>
-                <Link href={url} legacyBehavior>
-                  <div
-                    className={styles.blog}
-                    key={id}
-                    style={{
-                      background: `linear-gradient(0deg, rgba(0,0,0,0.8) 34%, rgba(255,255,255,0) 200%), url(${headerImg}) no-repeat center center `,
-                      backgroundSize: "cover",
-                    }}
-                  >
-                    <h4>{title}</h4>
+          .map(
+            ({
+              id,
+              date,
+              title,
+              headerAlt,
+              author,
+              readTime,
+              headerImg,
+              tag,
+              category,
+              desc,
+            }) => {
+              const url = `/${id}`;
+              let makeUrl = author.toLowerCase().replace(/\s+/g, "-");
+              let aurl = `/author/${makeUrl}`;
+              return (
+                <div key={id}>
+                  <Link href={url} legacyBehavior>
+                    <div
+                      className={styles.blog}
+                      key={id}
+                      style={{
+                        background: `linear-gradient(0deg, rgba(0,0,0,0.8) 34%, rgba(255,255,255,0) 200%), url(${headerImg}) no-repeat center center `,
+                        backgroundSize: "cover",
+                      }}
+                    >
+                      <h4>{title}</h4>
 
-                    <Link href={aurl} legacyBehavior>
-                      <div className={styles.profileWrap}>
-                        <Image
-                          src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/avatar-02.webp"
-                          width="80"
-                          height="45"
-                          layout="intrinsic"
-                          alt="blog_writer"
-                          className={styles.blogIMg}
-                        />
+                      <Link href={aurl} legacyBehavior>
+                        <div className={styles.profileWrap}>
+                          <Image
+                            src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/avatar-02.webp"
+                            width="80"
+                            height="45"
+                            layout="intrinsic"
+                            alt="blog_writer"
+                            className={styles.blogIMg}
+                          />
 
-                        <span>
-                          <h5>{author}</h5>
-                          <p>
-                            {date} <BsDot className={styles.dot} />
-                            <IoTimeOutline className={styles.time} />
-                            {readTime}
-                          </p>
-                        </span>
-                      </div>
-                    </Link>
-                  </div>
-                </Link>
-              </div>
-            );
-          })}
+                          <span>
+                            <h5>{author}</h5>
+                            <p>
+                              {date} <BsDot className={styles.dot} />
+                              <IoTimeOutline className={styles.time} />
+                              {readTime}
+                            </p>
+                          </span>
+                        </div>
+                      </Link>
+                    </div>
+                  </Link>
+                </div>
+              );
+            },
+          )}
       </section>
       {[...categoryPostTag].map((post, i) => {
         let tag = post;
@@ -152,7 +165,7 @@ export default function blog({ allPostsData }) {
                                 src={headerImg}
                                 width="300"
                                 height="180"
-                                alt={`Blog on ${title}`}
+                                alt={`Learnbay blog banner of the ${title}`}
                                 layout="intrinsic"
                                 className={styles.categoryPostImg}
                               />
@@ -205,7 +218,7 @@ export default function blog({ allPostsData }) {
                     ({
                       id,
                       date,
-                      title,
+                      headerAlt,
                       author,
                       readTime,
                       headerImg,
@@ -228,7 +241,7 @@ export default function blog({ allPostsData }) {
                                 src={headerImg}
                                 width="400"
                                 height="190"
-                                alt={`Blog on ${title}`}
+                                alt={headerAlt}
                                 layout="intrinsic"
                                 className={styles.categoryPostImg}
                               />
@@ -245,7 +258,7 @@ export default function blog({ allPostsData }) {
                                 </span>
                               </a>
                               <a href={url} target="_blank" rel="noreferrer">
-                                <h4>{title}</h4>
+                                <h4>{headerAlt || title}</h4>
                               </a>
                               <p>{desc}</p>
 

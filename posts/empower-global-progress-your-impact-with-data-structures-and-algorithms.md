@@ -7,7 +7,7 @@ modified_time: "2023-09-19T13:25:31+05:30"
 desc: "Discover how leveraging data structures and algorithms empowers you to solve complex problems, innovate, and make a meaningful impact on the world. Unlock your potential today."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/19dsa.webp"
-headerAlt: "Learnbay blog banner of empower global progress: your impact with data structures and algorithms.."
+headerAlt: "Learnbay blog banner of empower global progress: your impact with data structures and algorithms."
 date: "Sep 19, 2023"
 tag: [data structures and algorithms course, DSA course]
 category: "Full Stack"
