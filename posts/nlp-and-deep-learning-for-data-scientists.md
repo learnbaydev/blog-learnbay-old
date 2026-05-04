@@ -79,7 +79,7 @@ The publication of GPT-3 by Open AI was arguably the most significant developmen
 This official blog discusses how the corporation moved away from open source in order to prevent API exploitation. The CEO of IBM publicly indicated in a letter to Congress that the business would certainly be ceasing development as well as service offers of general-purpose facial recognition technologies and methodologies.
 
 - <a href="https://datascience-learnbay.medium.com/data-scientist-vs-artificial-intelligence-engineer-which-is-a-better-career-choice-2aa261fb3707?source=user_profile---------18-------------------------------" target="_blank" rel="nofollow">Artificial intelligence</a> advancements have substantially enhanced facial recognition software during the last decade.
-- This was a significant step forward for the organisation, as well as a strong message to the <a href="https://www.learnbay.co/data-science-course/data-science-course-in-bangalore/" target="_blank" rel="nofollow">data science</a> community at large.
+- This was a significant step forward for the organisation, as well as a strong message to the <a href="https://www.learnbay.co/data-science-course/data-science-course-in-bangalore/" target="_blank">data science</a> community at large.
 - Face recognition technology will no longer be developed or researched by IBM, according to the company.
 - IBM’s decision to prioritise ethics and safety may have influenced other large IT firms (including Microsoft) to follow suit.
 - They feel that now is the right time to start a national conversation about whether and how domestic law enforcement organisations should use facial recognition methodologies.
