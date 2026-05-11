@@ -127,7 +127,7 @@ SQL is basically a standard query language. It was made with two key goals in mi
 
 ### 5. <a href="https://www.python.org/" target="_blank" rel="nofollow">Python</a>
 
-Python is a potent programming language with many applications. Python is compatible with many various programming models, including object-oriented programming. The Python Software Foundation, a nonprofit organization, is in charge of managing Python resources. All the resources of Python are applied in web development. The <a href="https://blog.learnbay.co/basics-of-functions-in-python-a-glance" target="_blank" rel="nofollow">basics of python</a> will not be enough to become a successful full-stack developer but this much knowledge is enough to make you eligible for mastering python for web development.
+Python is a potent programming language with many applications. Python is compatible with many various programming models, including object-oriented programming. The Python Software Foundation, a nonprofit organization, is in charge of managing Python resources. All the resources of Python are applied in web development. The <a href="https://blog.learnbay.co/basics-of-functions-in-python-a-glance" target="_blank" >basics of python</a> will not be enough to become a successful full-stack developer but this much knowledge is enough to make you eligible for mastering python for web development.
 
 ### 6. <a href="https://www.javascript.com/" target="_blank" rel="nofollow">JavaScript</a>
 
