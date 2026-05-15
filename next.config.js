@@ -76,13 +76,6 @@ module.exports = {
       },
 
       {
-        source:
-          "/why-has-generative-ai-for-deepfake-and-synthetic-data-been-so-popular-till-now",
-        destination: "/what-is-generative-ai-all-you-need-to-know",
-        permanent: true,
-      },
-
-      {
         source: "/category/uncategorized",
         destination: "/blogs",
         permanent: true,
