@@ -120,7 +120,7 @@ The audio waveform is transformed to text at the **ASR** step when anyone asks a
 
 Automatic speech recognition "Automatic Speech Recognition (ASR) technology converts words spoken into text. 1st step for enabling voice technologies like Amazon Alexa responding when asked, **"Alexa , what's it like outside?".** ASR, voice technology, detects spoken sound and recognizes it as words. ASR is the basis of the voice experience. It lets computers comprehend our most natural way of communication (speech).
 
-Before, ASR was simply an audio recording in a computer's mind. With ASR, computers can detect patterns in audio waveforms, match them with the sound in a given language and eventually identify which words the user spoke. And ASR, as well as voice assistants, are getting smarter and smarter with the help of <a href="https://blog.learnbay.co/what-is-generative-ai-all-you-need-to-know" target="_blank">generative AI</a>.
+Before, ASR was simply an audio recording in a computer's mind. With ASR, computers can detect patterns in audio waveforms, match them with the sound in a given language and eventually identify which words the user spoke. And ASR, as well as voice assistants, are getting smarter and smarter with the help of <a href="https://www.learnbay.co/blogs/generative-ai-complete-guide" target="_blank">generative AI</a>.
 
 ### 2. Natural Language Understanding
 

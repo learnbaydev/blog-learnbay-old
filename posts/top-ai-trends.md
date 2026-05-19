@@ -3,7 +3,7 @@ title: "What Are the Next Big Trends in AI? | Latest AI Trends to Look Out"
 stitle: "Top 7 AI Trends Everyone Need To Know - Learnbay Blog "
 publish: "Published on"
 published_time: "2023-04-26T13:25:31+05:30"
-modified_time:  "2023-04-26T13:25:31+05:30"
+modified_time: "2023-04-26T13:25:31+05:30"
 desc: "The tech world has seen sudden hype about trending AI technologies. This blog will teach you about the top 7 AI trends and their promising future implications."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wnb-1.jpg"
@@ -77,7 +77,7 @@ NLP will continue to innovate and improve ways for machines to analyze text in a
 
 ## Trend 2:- Innovations in AI search through Generative AI
 
-As soon as ChatGPT was released, it took over the internet by storm, and a horde of consumers began testing its potential. Since then, the tech giants have started racing to develop the next big thing in generative AI. Among the top **AI trends** in 2022 was the implementation of **<a href="https://blog.learnbay.co/what-is-generative-ai-all-you-need-to-know" target="_blank">generative AI</a>** in search systems to improve their accuracy.
+As soon as ChatGPT was released, it took over the internet by storm, and a horde of consumers began testing its potential. Since then, the tech giants have started racing to develop the next big thing in generative AI. Among the top **AI trends** in 2022 was the implementation of **<a href="https://www.learnbay.co/blogs/generative-ai-complete-guide" target="_blank">generative AI</a>** in search systems to improve their accuracy.
 
 The year 2023 has already witnessed innovative applications of generative AI early on. Microsoft has debuted its collaborative AI search engine with Bing-powered by ChatGPT technology. Google has also released <a href="https://blog.learnbay.co/is-google-bard-a-possible-rival-to-chatgpt-4" target="_blank">Bard</a>, their version of the AI search engine, to challenge Microsoft's search engine.
 

@@ -166,7 +166,7 @@ For example, by transferring text and image data, neural search engines can prov
 
 ### 6. Generative AI
 
-It is very evident that <a href="https://blog.learnbay.co/what-is-generative-ai-all-you-need-to-know" target="_blank">Generative AI</a> is one of the most significant **multimodal machine learning applications**. They use neural network models to create image, text, or video content.
+It is very evident that <a href="https://www.learnbay.co/blogs/generative-ai-complete-guide" target="_blank">Generative AI</a> is one of the most significant **multimodal machine learning applications**. They use neural network models to create image, text, or video content.
 Multimodal AI is modifying how we interact with machines.
 
 One exciting recent example would be OpenAI GPT-4, which can generate human-like conversations on command with more precision than previous <a href="https://blog.learnbay.co/openai-gpt-3-revolution-the-thrill-of-next-gen-ai-innovation" target="_blank">GPT-3</a> models. Another invention by OpenAI is <a href="https://blog.learnbay.co/the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai" target="_blank">DALL-E 2</a>, which can create images from textual commands.
