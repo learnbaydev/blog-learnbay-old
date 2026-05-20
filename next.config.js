@@ -404,6 +404,20 @@ module.exports = {
         destination: "/category/data-science",
         permanent: true,
       },
+
+      {
+        source: "/top-ai-trends",
+        destination:
+          "https://www.learnbay.co/blogs/generative-ai-complete-guide",
+        permanent: true,
+      },
+
+      {
+        source: "/what-is-generative-ai-all-you-need-to-know",
+        destination:
+          "https://www.learnbay.co/blogs/generative-ai-complete-guide",
+        permanent: true,
+      },
     ];
   },
   eslint: {
