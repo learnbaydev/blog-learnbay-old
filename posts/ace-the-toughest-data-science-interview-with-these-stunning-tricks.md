@@ -205,4 +205,4 @@ I wouldn't recommend studying for a short-term interview because you need to unw
 ## Conclusion
 
 Data Science is one of the toughest interviews, but that does not mean you cannot crack it. It just requires dedication and skills with knowledge, and you can do it. Just read this blog pre-prepare yourself to **ace the data science interview.** Our courses at Learnbay help candidates in resume building and portfolio creation. We assure job referrals and offer a course in
-<a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course" target="_blank" >data science with a job guarantee</a> or you can claim your fees back. But remember, certificates and projects are necessary, but it is even more necessary to communicate what you know freely.
+data science with a job guarantee or you can claim your fees back. But remember, certificates and projects are necessary, but it is even more necessary to communicate what you know freely.

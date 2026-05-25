@@ -208,7 +208,7 @@ In a study by <a href="https://www.mckinsey.com/business-functions/marketing-and
 
 So, that's all about the industrial perspective of data science. Until now, I hope you have understood the fact that data science can't be explained through two-or three-line definitions anymore. Data science is not just for one industry but for all. It can be useful for organizations and even for consumers. It has opened up a new gateway for organizations and consumers to communicate and do business together. As a whole, the entire world is standing on data science.
 
-If you want to stand out as a data scientist. You can take professional <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course" target="_blank">data science courses with a job guarantee.</a>
+If you want to stand out as a data scientist. You can take professional data science courses with a job guarantee.
 
 Our **data science course** is IBM certified and is recognized globally. Our data science and AI course covers all the latest tools and modules that are presently used by organizations. It consists of live capstone projects, mock interviews, and job referrals. We guarantee you a job in six months, or you can claim your course fees back.
 For getting instant updates on the latest information on Data science technology, You can follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
