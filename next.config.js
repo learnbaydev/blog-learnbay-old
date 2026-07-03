@@ -407,8 +407,7 @@ module.exports = {
 
       {
         source: "/top-ai-trends",
-        destination:
-          "https://www.learnbay.co/blogs/generative-ai-complete-guide",
+        destination: "https://www.learnbay.co/blogs/top-ai-trends",
         permanent: true,
       },
 
@@ -416,6 +415,32 @@ module.exports = {
         source: "/what-is-generative-ai-all-you-need-to-know",
         destination:
           "https://www.learnbay.co/blogs/generative-ai-complete-guide",
+        permanent: true,
+      },
+      {
+        source: "/women-in-ai-top-10-indian-women-empowering-the-world-of-ai",
+        destination:
+          "https://www.learnbay.co/blogs/top-indian-women-in-ai-global-impact",
+        permanent: true,
+      },
+      {
+        source:
+          "/how-to-choose-the-right-data-science-program-for-your-career-goals",
+        destination:
+          "https://www.learnbay.co/blogs/how-to-choose-the-right-data-science-program-for-your-career-goals",
+        permanent: true,
+      },
+      {
+        source: "/top-courses-in-ai-cybersecurity-data-science-ml",
+        destination:
+          "https://www.learnbay.co/blogs/top-courses-in-ai-cybersecurity-data-science-ml",
+        permanent: true,
+      },
+
+      {
+        source: "/8-most-demanded-data-science-tools",
+        destination:
+          "https://www.learnbay.co/blogs/8-most-demanded-data-science-tools",
         permanent: true,
       },
     ];
