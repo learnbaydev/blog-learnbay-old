@@ -443,6 +443,13 @@ module.exports = {
           "https://www.learnbay.co/blogs/8-most-demanded-data-science-tools",
         permanent: true,
       },
+      {
+        source:
+          "/top-8-domains-for-data-science-those-offering-tempting-job-opportunities",
+        destination:
+          "https://www.learnbay.co/blogs/best-domains-for-data-science-and-ai",
+        permanent: true,
+      },
     ];
   },
   eslint: {
